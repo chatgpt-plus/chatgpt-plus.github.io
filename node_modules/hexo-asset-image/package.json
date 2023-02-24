@@ -1,0 +1,21 @@
+{
+  "name": "hexo-asset-image",
+  "version": "1.0.0",
+  "description": "Give asset image in hexo a absolutely path automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "iamge",
+    "asset",
+    "path"
+  ],
+  "author": "xcodebuild",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "entities": "^1.1.2"
+  }
+}

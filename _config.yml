@@ -122,7 +122,12 @@ symbols_count_time:
   wpm: 200
   suffix: "mins."
 
+
 # Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
+## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: 'git'
+  repo: 
+    github: git@github.com:chatgpt-plus/chatgpt-plus.github.io.git
+  branch: main
+  message: "."

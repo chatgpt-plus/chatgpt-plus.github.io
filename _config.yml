@@ -130,4 +130,3 @@ deploy:
   repo: 
     github: git@github.com:chatgpt-plus/chatgpt-plus.github.io.git
   branch: main
-  message: "."

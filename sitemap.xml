@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://chatgpt-plus.github.io/chatgpt-plus/</loc>
+    
+    <lastmod>2023-03-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chatgpt-plus.github.io/chatgpt/</loc>
     
     <lastmod>2023-02-27</lastmod>
@@ -10,19 +19,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://chatgpt-plus.github.io/chatgpt-plus/</loc>
-    
-    <lastmod>2023-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://chatgpt-plus.github.io/</loc>
-    <lastmod>2023-02-27</lastmod>
+    <lastmod>2023-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,14 +30,14 @@
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/ChatGPT/</loc>
-    <lastmod>2023-02-27</lastmod>
+    <lastmod>2023-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/ChatGPT-Plus/</loc>
-    <lastmod>2023-02-27</lastmod>
+    <lastmod>2023-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -46,7 +46,7 @@
   
   <url>
     <loc>http://chatgpt-plus.github.io/categories/AI/</loc>
-    <lastmod>2023-02-27</lastmod>
+    <lastmod>2023-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

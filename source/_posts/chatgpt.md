@@ -9,8 +9,8 @@ tags:
 
 # 一、Sms-active接码平台
 ## 1. 申请1个账号
-打开官方接码平台[https://sms-activate.org]([https://sms-activate.org](https://sms-activate.org/?ref=4773445)
-)，用邮箱注册一个账号，这里我用邮箱注册，激活账号并登录，此时可以看到右上角余额为0。
+打开官方接码平台[https://sms-activate.org](https://sms-activate.org/?ref=4773445)
+，用邮箱注册一个账号，这里我用邮箱注册，激活账号并登录，此时可以看到右上角余额为0。
 
 ![image.png](./images/chatgpt-1.png)
 
@@ -31,6 +31,7 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
 # 二、OpenAI官方账号
 ## 1.	申请1个OpenAI账号
 首先打开[OpenAI](https://beta.openai.com/signup)的账户注册页面。谷歌注册或者邮箱注册都可以，无所谓，我们这里用邮箱注册作为例子。
+由于某些原因，OpenAI官网需要使用魔法网络才可以访问，如果你的魔法网络不够稳定，可以使用[忍者云](https://renzhe.cloud/auth/register?code=vMNr)(需要魔法网络)，请至少购买鸣佐套餐，节点会稳定很多。
 
 ![image.png](./images/chatgpt-3.png)
 
@@ -44,7 +45,7 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
  
 这里，提供你的用户名和姓，并点击继续，OpenAI会要求你输入手机号码，注意，因为不支持国内的手机号码，所以，我们才需要上面第1步注册的接码平台，利用接码平台购买一个临时的国外手机号来接收验证码。
 ## 2.	购买验证码
-回到[接码平台 sms-activate.org](https://sms-activate.org/?ref=4773445)，在左侧搜索“OpenAi”，然后点击印度——点击购物车购买。选择印度的原因是当前，印度的号码成功率最高。
+回到[接码平台 sms-activate.org](https://sms-activate.org/?ref=4773445)，在左侧搜索“OpenAi”，然后点击印度——点击购物车购买。选择印度的原因是当前，截止到目前为止，印度的号码成功率最高。
 
 ![image.png](./images/chatgpt-5.png)
  

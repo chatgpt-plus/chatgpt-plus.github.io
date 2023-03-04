@@ -9,8 +9,7 @@ tags:
 
 # 一、Sms-active接码平台
 ## 1. 申请1个账号
-打开官方接码平台[https://sms-activate.org](https://sms-activate.org/?ref=4773445)
-，用邮箱注册一个账号，这里我用邮箱注册，激活账号并登录，此时可以看到右上角余额为0。
+打开官方接码平台[https://sms-activate.org](https://sms-activate.org/?ref=4773445)，用邮箱注册一个账号，这里我用邮箱注册，激活账号并登录，此时可以看到右上角余额为0。
 
 ![image.png](./images/chatgpt-1.png)
 
@@ -31,7 +30,7 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
 # 二、OpenAI官方账号
 ## 1.	申请1个OpenAI账号
 首先打开[OpenAI](https://beta.openai.com/signup)的账户注册页面。谷歌注册或者邮箱注册都可以，无所谓，我们这里用邮箱注册作为例子。
-由于某些原因，OpenAI官网需要使用魔法网络才可以访问，如果你的魔法网络不够稳定，可以使用[忍者云](https://renzhe.cloud/auth/register?code=vMNr)(需要魔法网络)，请至少购买鸣佐套餐，节点会稳定很多。
+由于某些原因，OpenAI官网需要使用科学网络才可以访问，如果你的科学网络不够稳定，可以使用[忍者云](https://renzhe.cloud/auth/register?code=vMNr)(需要科学网络)，请至少购买鸣佐套餐，节点会稳定很多。
 
 ![image.png](./images/chatgpt-3.png)
 
@@ -93,9 +92,9 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
 ![image.png](./images/chatgpt-13.png)
 
  
->解决办法：切换魔法网络(梯子)的节点IP并刷新页面重试，根据经验，日本、韩国和欧洲的成功率高。
+>解决办法：切换科学网络(梯子)的节点IP并刷新页面重试，根据经验，日本、韩国和欧洲的成功率高。
 
-魔法网络可以使用[忍者云](https://renzhe.cloud/auth/register?code=vMNr)(需挂提子访问)，请至少购买鸣佐套餐，节点会稳定很多。
+科学网络可以使用[忍者云](https://renzhe.cloud/auth/register?code=vMNr)(需挂提子访问)，请至少购买鸣佐套餐，节点会稳定很多。
 
 3.	登录chatgpt网站，遇到“Access denied, You do not have access to chat.openai.com … Error reference number 1020”错误
 
@@ -103,7 +102,7 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
 ![image.png](./images/chatgpt-14.png)
 
  
-> 解决办法：地区限制造成的，通过魔法网络切换忍者云节点IP来解决，目前日本、欧洲的节点稳定。
+> 解决办法：地区限制造成的，通过科学网络切换忍者云节点IP来解决，目前日本、欧洲的节点稳定。
 
 
 4.	使用ChatGPT过程中，遇到了如下这些错误:

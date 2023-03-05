@@ -1,10 +1,9 @@
-http://chatgpt-plus.github.io/verification.html
 http://chatgpt-plus.github.io/chatgpt-plus/
 http://chatgpt-plus.github.io/chatgpt/
 http://chatgpt-plus.github.io/chatgpt-api-key/
 http://chatgpt-plus.github.io/
-http://chatgpt-plus.github.io/tags/ChatGPT-API/
-http://chatgpt-plus.github.io/tags/ChaatGPT/
 http://chatgpt-plus.github.io/tags/ChatGPT/
 http://chatgpt-plus.github.io/tags/ChatGPT-Plus/
+http://chatgpt-plus.github.io/tags/ChatGPT-API/
+http://chatgpt-plus.github.io/tags/ChaatGPT/
 http://chatgpt-plus.github.io/categories/AI/

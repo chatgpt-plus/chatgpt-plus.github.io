@@ -2,7 +2,7 @@
 title: 国内注册一个属于自己的免费ChatGPT账号【附常见问题解决】
 date: 2023/2/5 10:13:54
 update: 2023/2/14 08:26:34
-categories: AI
+categories: ChatGPT
 tags: 
 - ChatGPT 
 ---
@@ -30,7 +30,7 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
 # 二、OpenAI官方账号
 ## 1.	申请1个OpenAI账号
 首先打开[OpenAI](https://beta.openai.com/signup)的账户注册页面。谷歌注册或者邮箱注册都可以，无所谓，我们这里用邮箱注册作为例子。
-由于某些原因，OpenAI官网需要使用科学网络才可以访问，如果你的科学网络不够稳定，可以使用[忍者云](https://renzhe.cloud/auth/register?code=vMNr)(需要科学网络)，请至少购买鸣佐套餐，节点会稳定很多。
+由于某些原因，OpenAI官网需要使用科学网络才可以访问，如果你的科学网络不够稳定，可以使用[忍者云](https://njregister.online/auth/register?code=vMNr)，请至少购买鸣佐套餐，节点会稳定很多。
 
 ![image.png](./images/chatgpt-3.png)
 
@@ -94,7 +94,7 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
  
 >解决办法：切换科学网络(梯子)的节点IP并刷新页面重试，根据经验，日本、韩国和欧洲的成功率高。
 
-科学网络可以使用[忍者云](https://renzhe.cloud/auth/register?code=vMNr)(需挂提子访问)，请至少购买鸣佐套餐，节点会稳定很多。
+科学网络可以使用[忍者云](https://njregister.online/auth/register?code=vMNr)，请至少购买鸣佐套餐，节点会稳定很多。
 
 3.	登录chatgpt网站，遇到“Access denied, You do not have access to chat.openai.com … Error reference number 1020”错误
 

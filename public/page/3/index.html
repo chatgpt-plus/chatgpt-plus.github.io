@@ -65,6 +65,9 @@
       <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
   <div class="site-nav-toggle">
     <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
     </div>
   </div>
 
@@ -85,6 +88,10 @@
 
 
 
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">3</span></a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签<span class="badge">4</span></a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类<span class="badge">1</span></a></li><li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li><li class="menu-item menu-item-commonweal"><a href="/404.html" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li>
+  </ul>
+</nav>
 
 
 
@@ -124,12 +131,14 @@
         </a>
       </div>
       <div class="site-state-item site-state-categories">
+          <a href="/categories/">
         <span class="site-state-item-count">1</span>
-        <span class="site-state-item-name">分类</span>
+        <span class="site-state-item-name">分类</span></a>
       </div>
       <div class="site-state-item site-state-tags">
+          <a href="/tags/">
         <span class="site-state-item-count">4</span>
-        <span class="site-state-item-name">标签</span>
+        <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
 </div>
@@ -199,7 +208,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2023-03-04 08:43:37" itemprop="dateModified" datetime="2023-03-04T08:43:37+08:00">2023-03-04</time>
+      <time title="修改时间：2023-03-06 20:08:30" itemprop="dateModified" datetime="2023-03-06T20:08:30+08:00">2023-03-06</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -207,7 +216,7 @@
       </span>
       <span class="post-meta-item-text">分类于</span>
         <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/AI/" itemprop="url" rel="index"><span itemprop="name">AI</span></a>
+          <a href="/categories/ChatGPT/" itemprop="url" rel="index"><span itemprop="name">ChatGPT</span></a>
         </span>
     </span>
 
@@ -243,7 +252,7 @@
 <p><img src="/./images/chatgpt-2.png" alt="image.png"></p>
 <p>充值完毕，稍后刷新页面，右上角账户余额就会更新(如果没更新，多等一会儿)。</p>
 <p>OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创办的OpenAI公司网站申请1个账号，过程中再返回来用接码平台。</p>
-<h1 id="二、OpenAI官方账号"><a href="#二、OpenAI官方账号" class="headerlink" title="二、OpenAI官方账号"></a>二、OpenAI官方账号</h1><h2 id="1-申请1个OpenAI账号"><a href="#1-申请1个OpenAI账号" class="headerlink" title="1.	申请1个OpenAI账号"></a>1.	申请1个OpenAI账号</h2><p>首先打开<a target="_blank" rel="noopener" href="https://beta.openai.com/signup">OpenAI</a>的账户注册页面。谷歌注册或者邮箱注册都可以，无所谓，我们这里用邮箱注册作为例子。<br>由于某些原因，OpenAI官网需要使用科学网络才可以访问，如果你的科学网络不够稳定，可以使用<a target="_blank" rel="noopener" href="https://renzhe.cloud/auth/register?code=vMNr">忍者云</a>(需要科学网络)，请至少购买鸣佐套餐，节点会稳定很多。</p>
+<h1 id="二、OpenAI官方账号"><a href="#二、OpenAI官方账号" class="headerlink" title="二、OpenAI官方账号"></a>二、OpenAI官方账号</h1><h2 id="1-申请1个OpenAI账号"><a href="#1-申请1个OpenAI账号" class="headerlink" title="1.	申请1个OpenAI账号"></a>1.	申请1个OpenAI账号</h2><p>首先打开<a target="_blank" rel="noopener" href="https://beta.openai.com/signup">OpenAI</a>的账户注册页面。谷歌注册或者邮箱注册都可以，无所谓，我们这里用邮箱注册作为例子。<br>由于某些原因，OpenAI官网需要使用科学网络才可以访问，如果你的科学网络不够稳定，可以使用<a target="_blank" rel="noopener" href="https://njregister.online/auth/register?code=vMNr">忍者云</a>，请至少购买鸣佐套餐，节点会稳定很多。</p>
 <p><img src="/./images/chatgpt-3.png" alt="image.png"></p>
 <p>如果你已经有谷歌或者微软账号，可以直接登录，如果没有也没关系，选择邮箱注册，登录邮箱激活账号。注意这里容易遇到问题，详见文末<strong>“问题及解决办法章节”</strong>。</p>
 <p>如果顺利，您将会看到如下注册页面——</p>
@@ -273,7 +282,7 @@
 <blockquote>
 <p>解决办法：切换科学网络(梯子)的节点IP并刷新页面重试，根据经验，日本、韩国和欧洲的成功率高。</p>
 </blockquote>
-<p>科学网络可以使用<a target="_blank" rel="noopener" href="https://renzhe.cloud/auth/register?code=vMNr">忍者云</a>(需挂提子访问)，请至少购买鸣佐套餐，节点会稳定很多。</p>
+<p>科学网络可以使用<a target="_blank" rel="noopener" href="https://njregister.online/auth/register?code=vMNr">忍者云</a>，请至少购买鸣佐套餐，节点会稳定很多。</p>
 <ol start="3">
 <li>   登录chatgpt网站，遇到“Access denied, You do not have access to chat.openai.com … Error reference number 1020”错误</li>
 </ol>

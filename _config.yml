@@ -30,6 +30,9 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
   - 'google034498bd67f02bec.html'
+  - 'verification.html'
+  - 'c6f61c580aad38c48799b684e040c78e.txt'
+  - '404.html'
 
 
 pangu: true
@@ -124,10 +127,26 @@ symbols_count_time:
   suffix: "mins."
 
 
+# feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit:
+  content_limit_delim: ' ' 
+
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: 'git'
-  repo: 
-    github: git@github.com:chatgpt-plus/chatgpt-plus.github.io.git
-  branch: master
+ - type: 'git'
+   repo: 
+     github: git@github.com:chatgpt-plus/chatgpt-plus.github.io.git
+   branch: master
+
+ # - type: 'git'
+ #   repo: 
+ #     github: git@e.coding.net:chatgpt-plus/moss/chatgpt-plus.coding.me.git
+ #   branch: master

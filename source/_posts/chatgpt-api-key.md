@@ -1,7 +1,7 @@
 ---
 title: 国内ChatGPT API Key申请使用及虚拟信用卡充值教程
 date: 2023-03-03 21:32:29
-categories: AI
+categories: ChatGPT
 tags: 
 - ChatGPT API
 - ChaatGPT

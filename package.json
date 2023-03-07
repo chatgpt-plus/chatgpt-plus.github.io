@@ -12,6 +12,7 @@
     "version": "6.3.0"
   },
   "dependencies": {
+    "gulp": "^4.0.2",
     "hexo": "^6.3.0",
     "hexo-asset-image": "^1.0.0",
     "hexo-deployer-git": "^4.0.0",

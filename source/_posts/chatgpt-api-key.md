@@ -4,7 +4,7 @@ date: 2023-03-03 21:32:29
 categories: ChatGPT
 tags: 
 - ChatGPT API
-- ChaatGPT
+- ChatGPT
 ---
 
 ## 一、ChatGPT API介绍

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Chat GPT Plus官方推荐新手教程</title>
+  <title>ChatGPT Plus官方推荐新手教程</title>
   
   
   <link href="http://chatgpt-plus.github.io/atom.xml" rel="self"/>
   
   <link href="http://chatgpt-plus.github.io/"/>
-  <updated>2023-03-06T12:08:57.759Z</updated>
+  <updated>2023-03-08T10:28:35.643Z</updated>
   <id>http://chatgpt-plus.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Depay虚拟卡绑定ChatGPT以及微信、支付宝等使用场景和建议</title>
+    <link href="http://chatgpt-plus.github.io/depay-card/"/>
+    <id>http://chatgpt-plus.github.io/depay-card/</id>
+    <published>2023-03-04T04:45:38.000Z</published>
+    <updated>2023-03-08T10:28:35.643Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Depay" scheme="http://chatgpt-plus.github.io/categories/Depay/"/>
+    
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+    <category term="Depay" scheme="http://chatgpt-plus.github.io/tags/Depay/"/>
+    
+  </entry>
+  
+  <entry>
     <title>国内ChatGPT API Key申请使用及虚拟信用卡充值教程</title>
     <link href="http://chatgpt-plus.github.io/chatgpt-api-key/"/>
     <id>http://chatgpt-plus.github.io/chatgpt-api-key/</id>
     <published>2023-03-03T13:32:29.000Z</published>
-    <updated>2023-03-06T12:08:57.759Z</updated>
+    <updated>2023-03-08T10:18:41.017Z</updated>
     
     
       
@@ -37,9 +64,9 @@
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
     
-    <category term="ChaatGPT" scheme="http://chatgpt-plus.github.io/tags/ChaatGPT/"/>
+    <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
     
   </entry>
   
@@ -48,7 +75,7 @@
     <link href="http://chatgpt-plus.github.io/chatgpt-plus/"/>
     <id>http://chatgpt-plus.github.io/chatgpt-plus/</id>
     <published>2023-02-09T12:41:45.000Z</published>
-    <updated>2023-03-06T12:08:40.999Z</updated>
+    <updated>2023-03-08T10:37:03.589Z</updated>
     
     
       

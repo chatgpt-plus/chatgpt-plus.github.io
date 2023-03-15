@@ -6,7 +6,7 @@
   <link href="http://chatgpt-plus.github.io/atom.xml" rel="self"/>
   
   <link href="http://chatgpt-plus.github.io/"/>
-  <updated>2023-03-08T10:28:35.643Z</updated>
+  <updated>2023-03-15T11:53:02.580Z</updated>
   <id>http://chatgpt-plus.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ChatGPT Plus用户抢先体验强大的GPT-4</title>
+    <link href="http://chatgpt-plus.github.io/gpt-4/"/>
+    <id>http://chatgpt-plus.github.io/gpt-4/</id>
+    <published>2023-03-15T10:46:26.000Z</published>
+    <updated>2023-03-15T11:53:02.580Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    
+    
+    <category term="ChatGPT Plus" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-Plus/"/>
+    
+    <category term="Depay" scheme="http://chatgpt-plus.github.io/tags/Depay/"/>
+    
+  </entry>
   
   <entry>
     <title>Depay虚拟卡绑定ChatGPT以及微信、支付宝等使用场景和建议</title>
@@ -64,9 +91,9 @@
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
-    
     <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
     
   </entry>
   

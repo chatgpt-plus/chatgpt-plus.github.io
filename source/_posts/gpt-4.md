@@ -64,7 +64,7 @@ GPT-4导入了新的机制，可以对违背道德或有害的内容进行更好
 1.  GPT-4可以理解图片表达的逻辑，联合文本的能力，可以直接将一张网站的设计草图转换成前端代码。
 1.  GPT-4的编程的能力更强，可以直接把报错信息输入回去，配合react的机制可以自动Debug并输出准确无误的代码。
 
-程序员们，如果你还没[有升级ChatGPT Plus会员]((https://chatgpt-plus.github.io/) ，那么可以先注册个[OpenAI账号]((https://chatgpt-plus.github.io/chatgpt/) )，申请加入GPT-4的等待清单呀，具体接着往下看——
+程序员们，如果你还没[有升级ChatGPT Plus会员](https://chatgpt-plus.github.io/) ，那么可以先注册个[OpenAI账号](https://chatgpt-plus.github.io/chatgpt/)，申请加入GPT-4的等待清单呀，具体接着往下看——
 
 ### 申请GPT-4等待清单
 
@@ -79,5 +79,5 @@ GPT-4导入了新的机制，可以对违背道德或有害的内容进行更好
 ![image.png](./images/gpt4-9.png)
 
 ## 附录
-参考教程 [《注册一个属于自己的免费ChatGPT账号及常见问题解决》](https://chatgpt-plus.github.io/chatgpt/)  
-参考教程：[《ChatGPT Plus官方推荐新手教程》](//chatgpt-plus.github.io)
+参考教程：[《注册一个属于自己的免费ChatGPT账号及常见问题解决》](https://chatgpt-plus.github.io/chatgpt/)  
+参考教程：[《ChatGPT Plus官方推荐新手教程》](https://chatgpt-plus.github.io)

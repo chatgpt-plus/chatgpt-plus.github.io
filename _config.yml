@@ -34,6 +34,7 @@ skip_render:
   - 'c6f61c580aad38c48799b684e040c78e.txt'
   - '404.html'
   - 'baidu_verify_codeva-F17aYII7JO.html'
+  - 'ads.txt'
 
 
 pangu: true

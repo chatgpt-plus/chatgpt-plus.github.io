@@ -91,9 +91,9 @@
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
-    
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+    <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
     
   </entry>
   
@@ -102,7 +102,7 @@
     <link href="http://chatgpt-plus.github.io/chatgpt-plus/"/>
     <id>http://chatgpt-plus.github.io/chatgpt-plus/</id>
     <published>2023-02-09T12:41:45.000Z</published>
-    <updated>2023-03-16T15:10:19.163Z</updated>
+    <updated>2023-03-18T02:18:54.262Z</updated>
     
     
       

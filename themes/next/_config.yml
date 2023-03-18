@@ -753,11 +753,11 @@ add_this_id:
 
 # Google Analytics
 # See: https://analytics.google.com
-google_analytics:
-  tracking_id: G-ZX6XCJR8MW
-  # By default, NexT will load an external gtag.js script on your site.
-  # If you only need the pageview feature, set the following option to true to get a better performance.
-  only_pageview: false
+# google_analytics:
+#   tracking_id: G-ZX6XCJR8MW
+#   # By default, NexT will load an external gtag.js script on your site.
+#   # If you only need the pageview feature, set the following option to true to get a better performance.
+#   only_pageview: false
 
 # Baidu Analytics
 # See: https://tongji.baidu.com

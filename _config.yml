@@ -40,9 +40,9 @@ skip_render:
 pangu: true
 
 # Add google analytics 
-# googleAnalytics:
-#   enable: false
-#   id: G-ZX6XCJR8MW 
+googleAnalytics:
+  enable: false
+  id: G-ZX6XCJR8MW 
 
 
 # Writing

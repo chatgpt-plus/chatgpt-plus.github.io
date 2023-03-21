@@ -41,7 +41,7 @@ pangu: true
 
 # Add google analytics 
 googleAnalytics:
-  enable: false
+  enable: true
   id: G-ZX6XCJR8MW 
 
 

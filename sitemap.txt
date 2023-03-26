@@ -9,7 +9,7 @@ http://chatgpt-plus.github.io/tags/index.html
 http://chatgpt-plus.github.io/
 http://chatgpt-plus.github.io/tags/ChatGPT-API/
 http://chatgpt-plus.github.io/tags/ChatGPT/
-http://chatgpt-plus.github.io/tags/ChatGPT-Plus/
 http://chatgpt-plus.github.io/tags/Depay/
+http://chatgpt-plus.github.io/tags/ChatGPT-Plus/
 http://chatgpt-plus.github.io/categories/ChatGPT/
 http://chatgpt-plus.github.io/categories/Depay/

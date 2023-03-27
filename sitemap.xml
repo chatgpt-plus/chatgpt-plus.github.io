@@ -4,7 +4,7 @@
   <url>
     <loc>http://chatgpt-plus.github.io/chatgpt-plus/</loc>
     
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
 
   <url>
     <loc>http://chatgpt-plus.github.io/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,28 +84,28 @@
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/ChatGPT-API/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/ChatGPT/</loc>
-    <lastmod>2023-03-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chatgpt-plus.github.io/tags/Depay/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/ChatGPT-Plus/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.github.io/tags/Depay/</loc>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -114,14 +114,14 @@
   
   <url>
     <loc>http://chatgpt-plus.github.io/categories/ChatGPT/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/categories/Depay/</loc>
-    <lastmod>2023-03-26</lastmod>
+    <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

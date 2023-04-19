@@ -35,6 +35,9 @@ skip_render:
   - '404.html'
   - 'baidu_verify_codeva-F17aYII7JO.html'
   - 'ads.txt'
+  - 'BingSiteAuth.xml'
+  - 'shenma-site-verification.txt'
+  - 'f0eb90342609764c86107ae9780c59c1.txt'
 
 
 pangu: true

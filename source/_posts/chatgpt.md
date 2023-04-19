@@ -30,7 +30,7 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
 # 二、OpenAI官方账号
 ## 1.	申请1个OpenAI账号
 首先打开[OpenAI](https://beta.openai.com/signup)的账户注册页面。谷歌注册或者邮箱注册都可以，无所谓，我们这里用邮箱注册作为例子。
-由于某些原因，OpenAI官网需要使用科学网络才可以访问，如果你的科学网络不够稳定，可以使用[忍者云](https://njregister.online/auth/register?code=vMNr)，请至少购买鸣佐套餐，节点会稳定很多。
+由于某些原因，OpenAI官网需要使用科学网络才可以访问，如果你的科学网络不够稳定，可以使用[batvpn](https://bat.vpnb.net/zh/register?code=9110b9d7)，查看最新公告看看那些节点支持chatgpt，就选择那些节点，成功率会高不少。
 
 ![image.png](./images/chatgpt-3.png)
 

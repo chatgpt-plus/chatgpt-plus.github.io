@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://chatgpt-plus.github.io//onekey-card/</loc>
+    <lastmod>2023-04-19</lastmod>
+  </url>
+  <url>
     <loc>http://chatgpt-plus.github.io//chatgpt-plus/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <lastmod>2023-04-19</lastmod>
+  </url>
+  <url>
+    <loc>http://chatgpt-plus.github.io//chatgpt/</loc>
+    <lastmod>2023-04-18</lastmod>
   </url>
   <url>
     <loc>http://chatgpt-plus.github.io//gpt-4/</loc>
@@ -15,9 +23,5 @@
   <url>
     <loc>http://chatgpt-plus.github.io//chatgpt-api-key/</loc>
     <lastmod>2023-03-08</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//chatgpt/</loc>
-    <lastmod>2023-03-06</lastmod>
   </url>
 </urlset> 

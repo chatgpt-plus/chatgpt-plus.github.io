@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://chatgpt-plus.github.io/chatgpt-plus/</loc>
+    <loc>http://chatgpt-plus.site/onekey-card/</loc>
     
-    <lastmod>2023-03-21</lastmod>
+    <lastmod>2023-04-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/gpt-4/</loc>
+    <loc>http://chatgpt-plus.site/chatgpt-plus/</loc>
+    
+    <lastmod>2023-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.site/chatgpt/</loc>
+    
+    <lastmod>2023-04-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.site/gpt-4/</loc>
     
     <lastmod>2023-03-15</lastmod>
     
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/depay-card/</loc>
+    <loc>http://chatgpt-plus.site/depay-card/</loc>
     
     <lastmod>2023-03-08</lastmod>
     
@@ -29,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/chatgpt-api-key/</loc>
+    <loc>http://chatgpt-plus.site/chatgpt-api-key/</loc>
     
     <lastmod>2023-03-08</lastmod>
     
@@ -38,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/404.html</loc>
+    <loc>http://chatgpt-plus.site/404.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -47,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/chatgpt/</loc>
+    <loc>http://chatgpt-plus.site/categories/index.html</loc>
     
     <lastmod>2023-03-06</lastmod>
     
@@ -56,16 +74,7 @@
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/categories/index.html</loc>
-    
-    <lastmod>2023-03-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chatgpt-plus.github.io/tags/index.html</loc>
+    <loc>http://chatgpt-plus.site/tags/index.html</loc>
     
     <lastmod>2023-03-06</lastmod>
     
@@ -75,37 +84,51 @@
   
 
   <url>
-    <loc>http://chatgpt-plus.github.io/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <loc>http://chatgpt-plus.site/</loc>
+    <lastmod>2023-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://chatgpt-plus.github.io/tags/ChatGPT-API/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <loc>http://chatgpt-plus.site/tags/ChatGPT-API/</loc>
+    <lastmod>2023-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/tags/ChatGPT/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <loc>http://chatgpt-plus.site/tags/ChatGPT/</loc>
+    <lastmod>2023-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/tags/ChatGPT-Plus/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <loc>http://chatgpt-plus.site/tags/ChatGPT-Plus/</loc>
+    <lastmod>2023-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/tags/Depay/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <loc>http://chatgpt-plus.site/tags/Depay/</loc>
+    <lastmod>2023-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.site/tags/onekey/</loc>
+    <lastmod>2023-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.site/tags/onekey-card/</loc>
+    <lastmod>2023-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -113,15 +136,22 @@
 
   
   <url>
-    <loc>http://chatgpt-plus.github.io/categories/ChatGPT/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <loc>http://chatgpt-plus.site/categories/ChatGPT/</loc>
+    <lastmod>2023-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/categories/Depay/</loc>
-    <lastmod>2023-03-21</lastmod>
+    <loc>http://chatgpt-plus.site/categories/Depay/</loc>
+    <lastmod>2023-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.site/categories/onekey/</loc>
+    <lastmod>2023-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

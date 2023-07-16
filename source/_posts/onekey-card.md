@@ -15,7 +15,7 @@ tags:
 
 ### 注册Onekey Card
 
-1.  点击官网链接：[https://card.onekey.so](https://card.onekey.so/?i=CA6RMD)，进入注册界面,点击 \[ sign in with Google ] ，直接使用谷歌账户注册。
+1.  点击官网链接：[https://card.onekey.so](https://card.onekey.so/?i=CA6RMD) 需要梯子(魔法网络)才能访问，进入注册界面, 如果你的梯子(魔法网络)不够稳定，可以使用[batvpn](https://bat.vpnb.net/zh/register?code=9110b9d7)，搞定梯子后，点击 \[ sign in with Google ] ，直接使用谷歌账户注册。
 
 ![image.png](./images/onekey001.png)
 2. 账号注册后，点击\[ Activate ]激活开通。卡片类型选VISA，目前是公测期间，只能通过邀请码来激活卡片，这里统一填写官方给定的邀请码：CA6RMD 【亲测，仍然有效】
@@ -33,37 +33,34 @@ tags:
 输入谷歌验证码和邮箱验证码，完成绑定。
 ![image.png](./images/onekey007.png)
 
-5.  点击卡下方的top up，公测期间，充值至少20 USDC用于激活，目前只支持USDC，下面会说如何通过欧易平台充值。
-![image.png](./images/onekey008.png)
+5.  点击右上角的充值，公测期间，充值至少30 USDT用于激活，下面会说如何通过欧易平台充值。
+![image.png](./images/onekey-new-001.png)
 
 ### 充值Onekey Card
 
-点击 USDC ，选择要充值的链进行充值。（暂时只支持USDC充值）
-注意不是USDT，别选错，充值错代币很难追回，请注意充值正确的币种。
+点击 USDT ，选择要充值的链进行充值。我们选择手续费低的波场Tron网络。注意别选错，充值错代币很难追回，请注意充值正确的币种，具体方法如下图：
 
 #### 1. 获取Onekey的充值地址
 
-点击加号Top up -->选择USDC -->选择TRX(Tron)网络 -->拷贝USDC Address，比如我的地址是：`TRggAKunNWqktNpUFx691WDbWqFvbqVdsN`
-![image.png](./images/onekey009.png)
+点击右上角--> 充值 -->选择USDT--> 选择TRX(Tron)网络 --> 拷贝USDT Address，比如我的地址是：`TRkFbWFqrm9f88zA6x6f9Xi63JZTgyHr1n`
+![image.png](./images/onekey-new-003.png)
 
-#### 2. 从欧易转USDC到Onekey
+#### 2. 从欧易转USDT到Onekey
 
-充值USDC，需要通过欧易平台，这是在国内比较容易购买到USDC/USDT的交易所。
+充值USDT，需要通过欧易平台，这是在国内比较容易购买到USDC或USDT的交易所。
 
 如果你还没有欧易账号，那么先[点击这里-->跳转官网注册欧易账号](https://www.cnouyi.care/join/79853740)
 
 首先，参考文章 [国内开通Chat GPT Plus保姆级教程【典藏】](https://chatgpt-plus.github.io/chatgpt-plus/#2%E3%80%81%E7%94%B3%E8%AF%B7%E6%AC%A7%E6%98%93%E8%B4%A6%E5%8F%B7%E5%AE%8C%E6%88%90USDT%E5%85%85%E5%80%BC)中的 “**申请欧易账号完成USDT充值**”章节完成欧易注册以及USDT的充值过程。
 
-完成了USDT充值后，在欧易App首页搜索USDC/USDT交易对，用USDT购买USDC，至少购买22个，因为有手续费磨损，稳妥起见，这里我购买50个。
-![image.png](./images/onekey010.png)
+然后，点击资产-->提币-->搜索USDC -->链上提币，这里提币地址填上面第1步从Onekey获取的地址，比如我的地址是：`TRkFbWFqrm9f88zA6x6f9Xi63JZTgyHr1n`，网络选USDT-TRC20，勾选交易账户，提交，手续费1USDC。
+![image.png](./images/onekey-new-004.png)
 
-然后，点击资产-->提币-->搜索USDC -->链上提币，这里提币地址填上面第1步从Onekey获取的地址，比如我的地址是：`TRggAKunNWqktNpUFx691WDbWqFvbqVdsN`，网络选USDC-TRC20，勾选交易账户，提交，手续费1USDC。
-![image.png](./images/onekey011.png)
-大概等待20分钟不到，USDC就提到了你的OneKey钱包。时间长短取决于网络拥塞情况。
+大概等待20分钟不到，USDT就提到了你的OneKey钱包。时间长短取决于网络拥塞情况。
 ![image.png](./images/onekey012.png)
 
 **📢📢📢注意**  
-需要注意的是，新注册的欧易用户默认完成身份认证后，需要等待24小时(有的人需要7天)才可以提现，如果你着急提现到Onekey Card，你可以尝试找一下人工客服，说下你的诉求，据群友反馈，有一定概率可以解除24小时等待。万一你真的特别着急，你也可以去微博上找代充，一般对方会按照汇率1:8收点劳务费。不是很急的话建议耐心等待24小时就行，不必花这冤枉钱。
+需要注意的是，根据监管要求，第一次注册欧易的用户，默认完成身份认证后，需要等待24小时(有的人需要7天)才可以提现，如果你着急提现到Onekey Card，你可以尝试找一下人工客服，说下你的诉求，据群友反馈，有一定概率可以解除24小时等待。万一你真的特别着急，你也可以去微博上找代充，一般对方会按照汇率1:8收点劳务费。不是很急的话建议耐心等待24小时就行，不必花这冤枉钱。
 如果你充值被欧易冻结7天不愿意等的话，可以试试[币安Biance](https://www.binance.com/en/activity/referral/offers/claim?ref=CPA_00JBDZVLUF)，最多只冻结24小时，不过需要梯子(魔法网络)才能访问。
 
 绑定Onekey卡到ChatGPT，然后升级到ChatGPT Plus的步骤这里就不赘述了，请直接移步到 [《开通ChatGPT Plus》](https://chatgpt-plus.github.io/chatgpt-plus/#%E4%B8%89%E3%80%81%E5%BC%80%E9%80%9AChatGPT-Plus)，记住IP一定要纯净，OpenAI对IP要求很严格。

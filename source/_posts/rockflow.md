@@ -30,7 +30,7 @@ tags:
 
 1. 注册OneKey Card并充值USDT,方法请自行参考[民间官方教程](https://chatgpt-plus.github.io/onekey-card/)。  
 
-注意📢📢📢：充值的USDT直接被OneKey Card自动转换成了成可以充值到RockFlow的USD。这里涉及手续费2.1%，以后升级到黑卡，可以降到1.5%
+注意📢📢📢：充值的USDT直接被OneKey Card自动转换成了成可以充值到RockFlow的USD (充值USDT的时候勾选自动兑换为USD)。这里涉及手续费2.1%，以后升级到黑卡，可以降到1.5%
 
 2. 在RockFlow App中，将USD美元$充值到RockFlow美股交易平台，选信用卡/借记卡方式,首次入金的话，中途会需要你设置下交易密码，添加税务识别号并提交入金审核。
 

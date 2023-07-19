@@ -6,7 +6,7 @@
   <link href="http://chatgpt-plus.github.io/atom.xml" rel="self"/>
   
   <link href="http://chatgpt-plus.github.io/"/>
-  <updated>2023-07-17T06:35:12.694Z</updated>
+  <updated>2023-07-19T06:54:58.822Z</updated>
   <id>http://chatgpt-plus.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://chatgpt-plus.github.io/rockflow/"/>
     <id>http://chatgpt-plus.github.io/rockflow/</id>
     <published>2023-07-14T03:23:15.000Z</published>
-    <updated>2023-07-17T06:35:12.694Z</updated>
+    <updated>2023-07-19T06:54:58.822Z</updated>
     
     
       
@@ -156,7 +156,7 @@
     <link href="http://chatgpt-plus.github.io/chatgpt-plus/"/>
     <id>http://chatgpt-plus.github.io/chatgpt-plus/</id>
     <published>2023-02-09T12:41:45.000Z</published>
-    <updated>2023-07-16T08:58:57.702Z</updated>
+    <updated>2023-07-17T09:50:57.369Z</updated>
     
     
       
@@ -173,6 +173,10 @@
     
     
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+    <category term="ChatGPT 充值" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-%E5%85%85%E5%80%BC/"/>
+    
+    <category term="ChatGPT 购买" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-%E8%B4%AD%E4%B9%B0/"/>
     
     <category term="ChatGPT Plus" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-Plus/"/>
     

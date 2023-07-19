@@ -4,7 +4,7 @@
   <url>
     <loc>http://chatgpt-plus.github.io/rockflow/</loc>
     
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>http://chatgpt-plus.github.io/chatgpt-plus/</loc>
     
-    <lastmod>2023-07-16</lastmod>
+    <lastmod>2023-07-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +94,7 @@
 
   <url>
     <loc>http://chatgpt-plus.github.io/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,56 +102,70 @@
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/ChatGPT-API/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/ChatGPT/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/Depay/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.github.io/tags/ChatGPT-%E5%85%85%E5%80%BC/</loc>
+    <lastmod>2023-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.github.io/tags/ChatGPT-%E8%B4%AD%E4%B9%B0/</loc>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/ChatGPT-Plus/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/onekey/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/onekey-card/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/rockflow/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/%E7%BE%8E%E6%B8%AF%E8%82%A1/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -160,28 +174,28 @@
   
   <url>
     <loc>http://chatgpt-plus.github.io/categories/ChatGPT/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/categories/Depay/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/categories/onekey/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://chatgpt-plus.github.io/categories/%E7%BE%8E%E6%B8%AF%E8%82%A1/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

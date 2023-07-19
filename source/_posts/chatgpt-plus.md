@@ -7,6 +7,8 @@ top:
     true
 tags: 
 - ChatGPT 
+- ChatGPT 充值
+- ChatGPT 购买
 - ChatGPT Plus
 ---
 ## 一、ChatGPT Plus

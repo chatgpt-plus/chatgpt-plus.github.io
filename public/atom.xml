@@ -6,7 +6,7 @@
   <link href="http://chatgpt-plus.github.io/atom.xml" rel="self"/>
   
   <link href="http://chatgpt-plus.github.io/"/>
-  <updated>2023-07-19T06:54:58.822Z</updated>
+  <updated>2023-08-10T06:24:04.404Z</updated>
   <id>http://chatgpt-plus.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Depay(Dupay)虚拟卡如何白嫖谷歌云服务器$300美金大羊毛</title>
+    <link href="http://chatgpt-plus.github.io/gce-depay/"/>
+    <id>http://chatgpt-plus.github.io/gce-depay/</id>
+    <published>2023-08-10T05:57:59.000Z</published>
+    <updated>2023-08-10T06:24:04.404Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    
+    
+    <category term="Depay" scheme="http://chatgpt-plus.github.io/tags/Depay/"/>
+    
+    <category term="谷歌云" scheme="http://chatgpt-plus.github.io/tags/%E8%B0%B7%E6%AD%8C%E4%BA%91/"/>
+    
+    <category term="VPS" scheme="http://chatgpt-plus.github.io/tags/VPS/"/>
+    
+    <category term="薅羊毛" scheme="http://chatgpt-plus.github.io/tags/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
+    
+  </entry>
   
   <entry>
     <title>教你国内新手小白如何方便炒美港股？</title>
@@ -91,9 +122,9 @@
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="Depay" scheme="http://chatgpt-plus.github.io/tags/Depay/"/>
-    
     <category term="ChatGPT Plus" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-Plus/"/>
+    
+    <category term="Depay" scheme="http://chatgpt-plus.github.io/tags/Depay/"/>
     
   </entry>
   
@@ -145,9 +176,9 @@
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
-    
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+    <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
     
   </entry>
   

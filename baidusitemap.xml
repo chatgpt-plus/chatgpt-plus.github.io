@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://chatgpt-plus.github.io//chatgpt/</loc>
+    <lastmod>2023-08-19</lastmod>
+  </url>
+  <url>
+    <loc>http://chatgpt-plus.github.io//chatgpt-plus/</loc>
+    <lastmod>2023-08-19</lastmod>
+  </url>
+  <url>
     <loc>http://chatgpt-plus.github.io//gce-depay/</loc>
     <lastmod>2023-08-10</lastmod>
   </url>
   <url>
     <loc>http://chatgpt-plus.github.io//onekey-card/</loc>
-    <lastmod>2023-08-09</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//chatgpt-plus/</loc>
     <lastmod>2023-08-09</lastmod>
   </url>
   <url>
@@ -19,10 +23,6 @@
   <url>
     <loc>http://chatgpt-plus.github.io//rockflow/</loc>
     <lastmod>2023-07-19</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//chatgpt/</loc>
-    <lastmod>2023-04-18</lastmod>
   </url>
   <url>
     <loc>http://chatgpt-plus.github.io//gpt-4/</loc>

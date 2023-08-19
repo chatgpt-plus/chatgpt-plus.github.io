@@ -94,7 +94,7 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
  
 >解决办法：切换科学网络(梯子)的节点IP并刷新页面重试，根据经验，日本、韩国和欧洲的成功率高。
 
-科学网络可以使用[忍者云](https://njregister.online/auth/register?code=vMNr)，请至少购买鸣佐套餐，节点会稳定很多。
+科学上网可以使用[batvpn](https://bat.vpnb.net/zh/register?code=9110b9d7)，查看最新公告看看那些节点支持chatgpt，就选择那些节点，成功率会高不少
 
 3.	登录chatgpt网站，遇到“Access denied, You do not have access to chat.openai.com … Error reference number 1020”错误
 
@@ -102,7 +102,7 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
 ![image.png](./images/chatgpt-14.png)
 
  
-> 解决办法：地区限制造成的，通过科学网络切换忍者云节点IP来解决，目前日本、欧洲的节点稳定。
+> 解决办法：地区限制造成的，通过科学网络切换节点IP来解决，目前日本、欧洲的节点稳定。
 
 
 4.	使用ChatGPT过程中，遇到了如下这些错误:

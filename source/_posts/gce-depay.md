@@ -26,33 +26,33 @@ tags:
 使用您的谷歌账号登录Google Cloud官网并进行账户注册：[https://cloud.google.com/](https://cloud.google.com/) 
 我们在**官网首页-->点击免费试用进行注册--> 填写国家和地区资料**，我们在右侧栏可以看到90天有效期的300刀赠额说明。国家地区选择真实所在地，这里我选择美国(填中国也可以)，勾选同意条款，点击同意并继续——
 
-![image.png](./images/gce-depay-1.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/gce-depay-1.png)
 
 
 ##### 三、绑定 Depay卡
 在“付款方式”这里绑定您在上述第1步中申请的Depay卡，填卡的信息跟您申请卡的时候填写的保持一致即可。
 
-![image.png](./images/gce-depay-2.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/gce-depay-2.png)
 
 谷歌云(GCP)在认证时会产生一笔$0.00~2.00 的交易，仅用于验证您是否是卡主，验证通过之后会原路退回，要是没法正常划扣的话是没办法过验证的。所以，要求咱们的Depay卡里至少得充值2美元，不充钱是没法用的。转账到Depay卡里时注意要转美元。谷歌云的验证方法其实是让您填写这笔订单的后6位数字(如图所示)。
 
-![image.png](./images/gce-depay-3.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/gce-depay-3.png)
 
 Depay卡绑定成功之后，再填写3个小调查问卷题目就可以了，这里随便填。
 
-![image.png](./images/gce-depay-4.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/gce-depay-4.png)
 
 到这里，白嫖成功，$300的大羊毛，90天。
 
-![image.png](./images/gce-depay-5.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/gce-depay-5.png)
 
 ##### 四、谷歌云初体验——创建VM虚拟机
 这里，谷歌给你默认创建了个名为"My First Project"的项目，左侧栏找到 VM Instances-->点击 New VM Instance，创建一台虚拟机，这里，我选了2vCPU+4GB，10GB磁盘的Ubuntu 22.04系统机器，大概一个月费用是$28。
 
-![image.png](./images/gce-depay-6.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/gce-depay-6.png)
 
 创建好后，就可以通过SSH远程登录管理您的VM服务器了。这里，我创建的VM服务器名字叫做"instance-1", 可以看到它有1 个外网IP可以远程连过去。
-![image.png](./images/gce-depay-7.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/gce-depay-7.png)
 
 最后，本地连上SSH，完美。
-![image.png](./images/gce-depay-8.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/gce-depay-8.png)

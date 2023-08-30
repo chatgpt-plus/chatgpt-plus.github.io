@@ -14,7 +14,7 @@ cache:
   enable: true
 
 # Remove unnecessary files after hexo generate.
-minify: false
+minify: true
 
 # Define custom file paths.
 # Create your custom files in site directory `source/_data` and uncomment needed files below.
@@ -50,10 +50,10 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
+  small: https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/favicon-16x16-next.png
+  medium: https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/favicon-32x32-next.png
+  apple_touch_icon: https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/apple-touch-icon-next.png
+  safari_pinned_tab: https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/logo.svg
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
@@ -103,6 +103,7 @@ menu:
   #schedule: /schedule/ || fa fa-calendar
   sitemap: /sitemap.xml || fa fa-sitemap
   commonweal: /404.html || fa fa-heartbeat
+  links: /links/ || fa fa-share
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
@@ -157,6 +158,7 @@ social:
   #GitHub: https://github.com/yourname || fab fa-github
   E-Mail: mailto:ai_bot@gmail.com || fa fa-envelope
   Weibo: https://weibo.com/7598511073/ || fab fa-weibo
+  友情链接: https://chatgpt-plus.github.io/links || fab fa-share
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
@@ -265,12 +267,12 @@ tag_icon: false
 # Front-matter variable (nonsupport animation).
 reward_settings:
   # If true, a donate button will be displayed in every article by default.
-  enable: false
-  animation: false
+  enable: true
+  animation: true
 
 reward:
-  #wechatpay: /images/wechatpay.png
-  #alipay: /images/alipay.png
+  wechatpay: https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/wechatpay.png
+  alipay: https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/alipay.jpg
   #paypal: /images/paypal.png
   #bitcoin: /images/bitcoin.png
 

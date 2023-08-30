@@ -15,8 +15,8 @@ tags:
 
 升级到付费版的ChatGPT Plus好处自然不用说，懂的都懂。比如稳定，无字数限制，不会有错误等等。  
 本文就分享一下本人(以及若干ChatGPT Plus爱好者+群友)亲测有效的ChatGPT Plus付费版升级流程。注册门槛说实话有点高，总结起来其实就下面4个步骤：
-![image.png](./images/1.png)
-这里简单说，欧易是港股上市，国内最大的交易所，Depay是最大的虚拟信用卡公司。
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/1.png)
+这里简单说，欧易是港股上市，国内最大的交易所，Depay(现已改名Dupay)是目前合规的最大的虚拟信用卡发行商。
 
 ## 二、实操步骤
 
@@ -29,7 +29,7 @@ tags:
 
 ### 1、申请ChatGPT账号
 
-这一步网上有很多详细的教程，我这里就不细说了。还没有自己的ChatGPT账号的，先参照[国内注册一个属于自己的免费ChatGPT账号【附常见问题解决】](https://chatgpt-plus.github.io/chatgpt/)一步一步做，申请一个属于自己的ChatGPT，这个教程注册+接验证码都有了，国内的手机号也可以完成注册。  
+这一步网上有很多详细的教程，我这里就不细说了。还没有自己的ChatGPT账号的，先参照[国内注册一个属于自己的免费ChatGPT账号【附常见问题解决】](https://chatgpt-plus.github.io/chatgpt/)一步一步做，申请一个属于自己的ChatGPT，这个教程里关于如何注册以及如何接验证码都有了，国内+86的手机号也可以完成注册。  
 照着做就行，只有先搞定ChatGPT账号，才能在此基础上升级到ChatGPT Plus。
 
 已经有ChatGPT账号的，直接进入第2步，走起！
@@ -37,7 +37,7 @@ tags:
 ### 2、申请[欧易](https://www.cnouyi.limo/join/79853740)账号完成USDT充值
 
 因为Depay不接受人民币直接充值，所以我们必须借助交易所平台，来完成  
-人民币—USDT—USD美元的兑换过程，等Depay账户里有USD美元了再给ChatGPT Plus 充值。这里，对USDT不熟悉的朋友我说一下，USDT是虚拟货币泰达币，跟USD美元锚定的，背后有大而不倒的金融机构担保，只要USD在它就在，安全性不用担心。
+**人民币—USDT—USD美元** 的兑换过程，等Depay账户里有USD美元了再给ChatGPT Plus 充值。这里，对USDT不熟悉的朋友我说一下，USDT是虚拟货币泰达币，跟USD美元锚定的，背后有大而不倒的金融机构担保，只要USD在它就在，安全性不用担心。
 
 关于交易所，咱国内用户，受前两年国家整顿的政策影响，当下国家支持并且靠谱的大交易所目前就仅剩下[欧易](https://www.cnouyi.limo/join/79853740)一家独大了，咱没得选，乖乖注册一个欧易账号就好。
 
@@ -50,13 +50,15 @@ tags:
 
 耐心等待欧易App安装成功，点击App首页——我要买币——快捷买币——选USDT——购买至少23USDT(大概￥200)——支持支付宝、微信或者银行卡购买。  
 
+[**注意**]：有小伙伴反馈，现在美元兑人民币汇率升高了，200 元人民币买不到 23USDT了，各位看着买，反正至少要买23个USDT。
+
 
 做完上面这一步，就完成人民币——USDT的兑换，也就是上面说的第一步。  
 
 这里，我多买点，买36USDT，大概250人民币。
 
 
-![image.png](./images/chatgpt-plus-new-001.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-plus-new-001.png)
 
 > 额外啰嗦一句——
   **虽然你们经常听到身边朋友说谁谁谁炒币炒合约翻了几百倍财富自由了什么的，确有其事。但还是不建议你去炒币，因为风险挺大的，很少人能管住自己的贪欲，确实有人赚钱，但是亏钱的也不少，大家不要轻易尝试。切记！
@@ -78,10 +80,10 @@ tags:
     关于Depay的任何使用问题，都可以去[Depay官方电报群](https://t.me/depay_visa)反馈(需要科学访问)。
     卡开通后，可以往Depay里充值USDT ，这一步在接下去的第4小章节会讲到，需要用到前面注册的[欧易账号](https://www.cnouyi.limo/join/76527935)来充值USDT。
 
-![image.png](./images/3.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/3.png)
     
 这里忍不住安利一下， Depay平常可以用于微信，支付宝，美团消费，直接用USDT做日常小额消费，还免收手续费，这还是很舒服的。关于这方面，花几分钟看下这篇文章[《Depay虚拟卡绑定ChatGPT以及微信、支付宝等使用场景和建议》](https://chatgpt-plus.github.io/depay-card/)，这里放1张截图，其他的不做过多阐述。
-![image.png](./images/depay-5.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/depay-5.png)
 
 ### 4、给钱包充值USDT
 
@@ -89,7 +91,7 @@ tags:
     充值地址千万不要复制错，比如我的Depay钱包的USDT充值地址是TKeiEjFBDyJTAb89YhFDQCyFfLjiZJt55Z。
 
 
-![image.png](./images/4.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/4.png)
 
 2、 打开上面第2步注册的欧易App，找到首页——资产——提币——USDT——链上提币。
 提币地址填Depay钱包里的充值地址，这里我填TKeiEjFBDyJTAb89YhFDQCyFfLjiZJt55Z， 
@@ -97,12 +99,12 @@ tags:
 数量选大于23USDT就行，够充值1个月ChatGPT Plus会员就行。 
 提交，等待到账。
 
-![image.png](./images/5.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/5.png)
 
 3、欧易提现到Depay成功后，点击Depay App钱包——兑换，将所有的USDT都兑换成USD美元
 
 
-![image.png](./images/6.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/6.png)
 
 4、点击Depay App首页的To Card，将兑换的美元存入卡中，到此，Depay充值大功告成。
 
@@ -114,7 +116,7 @@ tags:
 我们已经在第3步中拥有了一张属于自己的虚拟信用卡(其实相当于借记卡，不可透支)，并且往里面充了20多美刀，够我们订阅1个月ChatGPT Plus了。  
 登录ChatGPT, 左下角找到升级Plus的选项——Upgrade to Plus
 
-![image.png](./images/7.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/7.png)
 
 一些群友反馈没有出现这个升级的选项，记得把IP切换到美国或者欧洲再重新登陆，现阶段只有美国或欧洲的IP才会有这个选项，(升级的时候需要国际IP，升级完毕后不要求)。
 
@@ -125,32 +127,34 @@ tags:
 1.  账单地址用美国地址生成器生成
 1.  如果1、2都做了还是失败，那么尝试清空浏览器缓存，无痕登录，重新登录ChatGPT再尝试。如果还是不行，那么建议更换你目前在用的代理节点再试，直到成功。
 
-### 关于代理
+### 关于VPN/代理/魔法网络/梯子/翻墙
 
-代理一定要用美国或欧洲的IP，特别是香港的IP已经不行了。如果你不确定自己的IP是不是美国或欧洲的，<http://en.ipip.net/> 查看。不要用那种很多人使用的代理，容易失败。如果你自己的代理被别人污染了，我这里推荐用[batvpn](https://bat.vpnb.net/zh/register?code=9110b9d7)，目前使用的人还不多，ip还算纯净。
+网上说的VPN、代理、魔法网络、梯子、翻墙，都是一个意思。申请 chatgpt plus， 代理一定要用美国或欧洲的IP，特别是香港的IP已经不行了。如果你不确定自己的IP是不是美国或欧洲的，<http://en.ipip.net/>查看。不要用那种很多人使用的代理，容易失败。如果你自己的代理被别人污染了，我这里推荐用[batvpn](https://bat.vpnb.net/zh/register?code=9110b9d7)，目前使用的人还不多，ip还算纯净。
+
+【注意⚠️】有小伙伴反馈说同一个梯子服务商用得人多了，有可能会被chatgpt官方屏蔽对应IP，所以建议大家不要集中同一个魔法网络，尽量分散些，我上面推荐的batVPN如果用得人多了，可以点击文章顶部->[友情链接](https://chatgpt-plus.github.io/links) --> [魔法梯子导航](https://shuziren.github.io/ssrvps/)
 
 
 ### 关于账单地址
 
 理论上随便填都行，你可以网上搜美国地址生成器，直接生成一个免税州的账单地址:
 
-![image.png](./images/8.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/8.png)
 请一定要用美国或者欧洲的IP访问，不行的话多切几个节点试验，否则可能会遇到如下报错，这里没有其他办法。
 
-![image.png](./images/11.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/11.png)
 
 ## 四、ChatGPT Plus初体验
 
 看到如下PLUS的尊贵标识，就说明你已经成功开通ChatGPT Plus了。  
 只能说，这钱花的值，你将拥有了AI的丝滑体验。
-![image.png](./images/9.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/9.png)
 
 
 每个月大概不到￥150，也就3杯星巴克的钱，换来的是一个高效的信息获取渠道，不亏，是一个跨时代的生产力。
 
 至此，恭喜您，已经成为了尊贵的ChatGPT Plus用户，成为全球走在时代前沿的人了。从现在起，访问ChatGPT Plus就拥有Default和Legacy双模型回答，以及快速、稳定的AI回复。
 
-![image.png](./images/10.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/10.png)
 
 
 ## 五、常见问题&解决
@@ -172,7 +176,9 @@ tags:
     >信用卡被拒可能有以下几个原因：
     你的信用卡确实不支持，比 Depay 的虚拟信用卡的号段被 OpenAI/ChatGPT 拒绝。可以尝试更换虚拟信用卡，Depay 支持申请多张。
     你的网络环境被 Stripe 风控，挂全局代理 + 浏览器无痕模式再试，总之挂代理和不挂代理都试一下
-    全局代理 + 浏览器无痕模式 + 更换 IP 失败次数超过 3-5 次，不建议继续尝试，这种情况可以考虑更换 ChatGPT 账号 + 无痕 + 更换梯子重新订阅试试。    
+    全局代理 + 浏览器无痕模式 + 更换 IP 失败次数超过 3-5 次，不建议继续尝试，这种情况可以考虑更换 ChatGPT 账号 + 无痕 + 更换梯子重新订阅试试。 
+
+    【注意⚠️】 有小伙伴反馈说同一个梯子服务商用得人多了，有可能会被chatgpt官方屏蔽对应IP，所以建议大家不要集中同一个魔法网络，尽量分散些，我上面推荐的batVPN如果用得人多了，可以点击文章顶部->[友情链接](https://chatgpt-plus.github.io/links) --> [魔法梯子导航](https://shuziren.github.io/ssrvps/)
 
 1.  为什么升级到ChatGPT Plus需要这么麻烦？
 

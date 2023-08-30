@@ -11,14 +11,14 @@ tags:
 
 今天，OpenAI 又开启了一个收费计划，开放 ChatGPT 和 Whisper API，前者允许任何企业在其应用程序、网站、产品和服务中使用 ChatGPT 功能，后者可以实现语音转文本。
 
-![](./images/chatgpt-api-1.png)
+![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-api-1.png)
 
 
 ChatGPT API有什么用？简单地说，它允许任何企业或个人在他们自己的应用程序、网站、产品和服务中使用 ChatGPT 功能，并且是最新的训练模型，$0.002/1K tokens的价格看起来也似乎非常诱人！
 
 ChatGPT API 的开放, 类似乔布斯当时建立了Apple应用商店，让全世界的企业和个人开发者都可以在应用程序中预留人工智能的接口, 与类ChatGPT平台联结起来。
 
-![](./images/chatgpt-api-2.png)
+![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-api-2.png)
 
 
 ## 二、ChatGPT账号申请及充值
@@ -28,7 +28,7 @@ ChatGPT API 的开放, 类似乔布斯当时建立了Apple应用商店，让全�
 
 有了卡之后，登录到OpenAI网站，点击右上角账号信息-->Billing ,设置付款方式，在这里绑定你刚刚申请的卡号信息即可对ChatGPT API充值。
 
-![](./images/chatgpt-api-3.png)
+![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-api-3.png)
 
 
 ## 三、开始使用ChatGPT API
@@ -37,29 +37,29 @@ OpenAI账号注册完成后，登录界面如下所示。点击右上角View API
 
 需要注意的是，出于安全原因，这个API只展示一次，请务必在关闭对话框之前，将其复制到你其他的地方保管。
 
-![](./images/chatgpt-api-4.png)
+![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-api-4.png)
 
 
 
-![](./images/chatgpt-api-5.png)
+![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-api-5.png)
 
 
 
 另外，点击左侧栏的Usage ,可以方便清晰看到token的使用量情况，数据5分钟更新一次。OpenAI官方针对每一个新注册的账户，提供$18免费token使用额度。这样一想，前面花费不到$1就能默认有$18 token使用额度，不亏。不过需要注意的是，免费额度有时间限制，过期了额度就作废。
 
-![](./images/chatgpt-api-6.png)
+![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-api-6.png)
 
 
 
 ChatGPT API的使用方法也十分简单，首先可以用简单的curl命令测试下。把$OPENAI_API_KEY替换成你自己的API KEY就好。
 
-![](./images/chatgpt-api-7.png)
+![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-api-7.png)
 
 
 
 另外，官方也提供了基于各种编程语言的简单实现代码。比如Python，你只需import openai包，带上刚申请的API，模型选择这次开放的最新模型——gpt-3.5-turbo就可以。
 
-![](./images/chatgpt-api-8.png)
+![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-api-8.png)
 
 
 
@@ -89,7 +89,7 @@ ChatGPT API的使用方法也十分简单，首先可以用简单的curl命令�
 按照一般的经验来看，在英语中“一个 token 通常对应大约 4 个字符”，而1个汉字大致是2~2.5个token。
 举一个官方的说明例子可能更直观一些：根据 OpenAI 官方文档，“ChatGPT is great!”这组单词就需要六个 token —— 它的 API 将其分解为 “Chat”、“G”、“PT”、“is”、“great”和“!”。
 如果你想查询一串指定的文本到底需要耗费多少个token(钱💰)，官方也有提供一个[免费查询计算器](https://platform.openai.com/tokenizer)：
-![](./images/chatgpt-api-9.png)
+![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-api-9.png)
 
 
 ### 5、ChatGPT API的连续会话能力
@@ -106,7 +106,7 @@ ChatGPT API使用有地区限制吗？有群友反馈说今天开始国内访问
 
 比如，你可以试试问一下那些套壳AI网站“今天是哪一天？”，看看它怎么回答。
 
-![](./images/chatgpt-api-10.png)
+![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-api-10.png)
 
 
 
@@ -118,11 +118,11 @@ ChatGPT API使用有地区限制吗？有群友反馈说今天开始国内访问
 
 官方也有提供Whisper的使用[例子](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)：
 
-![](./images/chatgpt-api-11.png)
+![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-api-11.png)
 
 
 
-![](./images/chatgpt-api-12.png)
+![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-api-12.png)
 
 
 

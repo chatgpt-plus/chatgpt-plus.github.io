@@ -15,6 +15,7 @@ menu:
   schedule: 日程表
   sitemap: 站点地图
   commonweal: 公益 404
+  links: 友情链接
 sidebar:
   overview: 站点概览
   toc: 文章目录
@@ -80,12 +81,12 @@ symbol:
   period: "。"
   colon: "："
 reward:
-  donate: 赞赏
+  donate: 来都来了，打个赏吧！
   wechatpay: 微信
   alipay: 支付宝
   paypal: PayPal
   bitcoin: 比特币
-  comment: Buy me a coffee
+  comment: 能否给我买杯蜜雪冰城呢？
 follow_me:
   welcome: 欢迎关注我的其它发布渠道
 accessibility:

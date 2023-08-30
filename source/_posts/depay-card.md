@@ -13,9 +13,9 @@ tags:
 ## 一、	什么是Depay
 Depay是发行VISA和Master卡的数字货币钱包，支持USDT充值到VISA卡和Master卡，使用Depay可在世界范围内消费，绑定支付宝微信PayPal等支付工具，让你直接可用消费USDT，用USDT即可进行日常开销，对于币圈人士，避免OTC风险。
  
-![image.png](./images/depay-1.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/depay-1.png)
 Depay的安全性不用特别担心，Depay持有美国MSB牌照（不清楚MSB的可以去百度下），并接受Fincen(金融犯罪执法局)的合规监管。Depay采用了多重签名冷钱包技术，资产收到离线保护。
-![image.png](./images/depay-2.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/depay-2.png)
 
  
 ## 二、	Depay使用场景
@@ -29,10 +29,10 @@ Depay的安全性不用特别担心，Depay持有美国MSB牌照（不清楚MSB�
 ## 三、Depay日常使用建议
 1、支付宝：适合线下被扫描抢扫，也可以自己扫商家二维码使用，日常线下买菜几乎适合所有的商家（注意不要频繁扫商家支付大额），超过200元需要支付3%手续费（支付宝收的不是Depay收）；
 2、微信：适合在京东购物，平多多购物，没有额外手续，线下二维码商家基本不支持（测试罗森便利店，永辉超市支持）。
-![image.png](./images/depay-3.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/depay-3.png)
  
 3、美团，适合点外卖，随便点；如果提示暂不支持该银行，直接选择，进行下一步输入过期日期和CVV，就支持了。
- ![image.png](./images/depay-4.png)
+ ![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/depay-4.png)
 
 4、京东、拼多多、淘宝 在购买部分虚拟商品和海外商品时 不支持此卡支付。
 5、淘宝上和拼多多直接绑卡消费，无论多少金额都要收3%手续费。
@@ -47,7 +47,7 @@ Depay的安全性不用特别担心，Depay持有美国MSB牌照（不清楚MSB�
 7、不建议去绑定土区任何东西白嫖，土区一律发现一律风控。apple ID号都可能没了。
 
 另外，充了USDT，绑定支付宝消费，目前还免Mastercard手续费，这点确实不错。
- ![image.png](./images/depay-5.png)
+ ![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/depay-5.png)
 
 
 
@@ -65,11 +65,11 @@ Depay的安全性不用特别担心，Depay持有美国MSB牌照（不清楚MSB�
 1. 美团无法支付？美团找客服解决，话术是：我自己的虚拟卡，我朋友都可以用。
 1. 所有的解决风控问题，都是明确这是虚拟卡，这是你本人的，不是盗刷的，理直气壮一点。
 这里提供一张支付宝、微信风控找客服的流程图——
- ![image.png](./images/depay-6.png)
+ ![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/depay-6.png)
 
 ## 七、Master卡和Visa卡有什么区别吗？
 大部分商家都一样支持，只是费率不一样，费率如下:
-![image.png](./images/depay-7.png)
+![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/depay-7.png)
 
 
 ## 八、其他注意事项
@@ -77,4 +77,5 @@ Depay的安全性不用特别担心，Depay持有美国MSB牌照（不清楚MSB�
 1. 支持ChatGPT PLUS会员扣费，需要你的支付环境，IP要原生IP，如果不行开无痕模式切换IP多试几次。
 1. 往Depay充值，要大于5U，少于5U不到账，到账时间大概5分钟~10分钟
 1. 绑卡时候，国内的应用填自己的国内地址；国外的应用，搜索找个海外的地址。
-1. 有其他任何使用上的问题，加入[Depay官方电报群](https://t.me/depay_visa)，万人群，热闹的。
+1. 有其他任何使用上的问题，加入[Depay官方电报群](https://t.me/depay_visa)，万人群，热闹的，不过需要[魔法网络](https://shuziren.github.io/ssrvps/)
+

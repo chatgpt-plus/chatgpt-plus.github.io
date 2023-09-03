@@ -11,16 +11,7 @@
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/onekey-card/</loc>
-    
-    <lastmod>2023-09-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chatgpt-plus.github.io/chatgpt/</loc>
+    <loc>http://chatgpt-plus.github.io/depay-card/</loc>
     
     <lastmod>2023-09-03</lastmod>
     
@@ -38,9 +29,18 @@
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/depay-card/</loc>
+    <loc>http://chatgpt-plus.github.io/onekey-card/</loc>
     
-    <lastmod>2023-08-30</lastmod>
+    <lastmod>2023-09-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.github.io/chatgpt/</loc>
+    
+    <lastmod>2023-09-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

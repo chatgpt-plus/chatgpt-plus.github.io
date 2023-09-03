@@ -15,12 +15,12 @@ tags:
 但其实，Depay卡的用途远不止此，平常可以多挖掘挖掘。今天教大家如何用Depay卡白嫖谷歌云服务器。申请成功后随即可获得300美元的试用金，有效期限是三个月。获得试用金后，就可以创建云服务器VM实例了。
 
 ##### 需要您提前准备好——
-1. 一个[Depay卡](https://depay.depay.one/web-app/register-h5?invitCode=920750&lang=zh-cn)账号。
+1. 一张[Depay卡](https://dupay.one/web-app/register-h5?invitCode=hmXfgp&lang=zh-cn)账号。
 3. 至少2美金验证金，用于验证卡的所属权，验证完毕会归还。
 4. 科学上网，[魔法上网](https://v.600ml.top/#/register?code=TOcQBatp)
 
 ##### 一、注册Depay卡
-申请一个Depay卡(虚拟的，不需要现场办理，线上申请并kyc即可)，参考前文[《国内开通Chat GPT Plus保姆级教程【典藏】》](https://chatgpt-plus.github.io/chatgpt-plus/)中的“实操步骤”里的第2和3两步，充值2美刀也是参考这里即可。
+申请一张Dupay(旧名:Depay)卡(虚拟的，不需要现场办理，线上申请并kyc即可)，参考前文[《国内开通Chat GPT Plus保姆级教程【典藏】》](https://chatgpt-plus.github.io/chatgpt-plus/)中的“实操步骤”里的第2和3两步，充值2美刀也是参考这里即可。
 
 ##### 二、填写资料
 使用您的谷歌账号登录Google Cloud官网并进行账户注册：[https://cloud.google.com/](https://cloud.google.com/) 

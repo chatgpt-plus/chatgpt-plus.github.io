@@ -24,7 +24,7 @@ tags:
 
 1.  注册1个可用的ChatGPT账号
 1.  注册1个虚拟交易平台[欧易账号](https://www.cnouyi.limo/join/79853740)(没得选，国内安全的只有它)
-1.  申请1张虚拟信用卡(选[Depay](https://depay.depay.one/web-app/register-h5?invitCode=920750&lang=zh-cn)，群里小伙伴都是用它)
+1.  申请1张虚拟信用卡(选[Depay](https://dupay.one/web-app/register-h5?invitCode=hmXfgp&lang=zh-cn)，群里小伙伴都是用它)
 1.  能正常访问ChatGPT的科学上网条件（一定要选美国或者欧洲的代理节点）
 
 ### 1、申请ChatGPT账号
@@ -46,7 +46,7 @@ tags:
 
 等待欧易账号注册好，下载并安装APP，安装过程中如果系统提示有安全风险，不必理会，对于虚拟货币，系统都会误报，咱们这是正规官网下载的，哪来的风险，忽略就好。
 
-如果你是苹果用户，需要使用海外AppleID登录应用商店下载app，关于如何申请一个海外AppleID，这里不做赘述，去知乎上搜一下就有。 
+如果你是苹果用户，需要使用海外AppleID登录应用商店下载app，关于如何申请一个海外AppleID，这里不做赘述，可以看[教程](https://heiyetouzi.xyz/appleid/)，或者去知乎上搜一下就有。 
 
 耐心等待欧易App安装成功，点击App首页——我要买币——快捷买币——选USDT——购买至少23USDT(大概￥200)——支持支付宝、微信或者银行卡购买。  
 
@@ -68,10 +68,10 @@ tags:
 
 1.  什么是Depay  
     首先，ChatGPT充值要求必须美国的信用卡，咱们国内的双币卡、全币卡都不能用。  
-    不用说，对于国内没有美国当地信用卡的小伙伴，肯定选赫赫有名的[Depay](https://depay.depay.one/web-app/register-h5?invitCode=920750&lang=zh-cn)美国虚拟信用卡。
+    不用说，对于国内没有美国当地信用卡的小伙伴，肯定选赫赫有名的[Depay](https://dupay.one/web-app/register-h5?invitCode=hmXfgp&lang=zh-cn)美国虚拟信用卡。
     
 1.  注册Depay账号  
-    [点此注册Depay账号](https://depay.depay.one/web-app/register-h5?invitCode=920750&lang=zh-cn)，可以用邮箱或者手机号，我本人选的谷歌邮箱注册，如果验证码没收到很可能在垃圾箱里。账号注册成功后，会让你下载它们的App安装，苹果手机需要登录海外的Apple账号，安卓手机可以直接下载apk安装，我下载的是depay1.2.4.apk版本。耐心等待APP安装完毕，用刚刚注册的账号和密码登录Depay。
+    [点此注册Depay账号](https://dupay.one/web-app/register-h5?invitCode=hmXfgp&lang=zh-cn)，可以用邮箱或者手机号，我本人选的谷歌邮箱注册，如果验证码没收到很可能在垃圾箱里。账号注册成功后，会让你下载它们的App安装，苹果手机的话直接用网页 H5就好，实在想用app那就去官方Depay官方 4w多人的[Depay官方电报群(需要科学访问)](https://t.me/depay_visa)(蹲守iOS内测包，安卓手机可以直接下载apk安装，我下载的是depay2.2.0.apk版本。耐心等待APP安装完毕，用刚刚注册的账号和密码登录Depay。
     
 1.  申请第一张卡  
     点击界面左上角的“申请卡”开通虚拟信用卡，开卡的时候可以选0开卡费的，也可以选10USDT开卡费(一次性)的，区别是0开卡费的需要你完成KYC认证，通俗点说就是需要你上传身份证(国内身份证没问题)或者护照认证，如果你暂时不想上传自己身份证或者护照实名的话，可以先选10USDT开卡费的，这样，下面你就要记得多转10USDT。 高级卡、白金卡有10U和50U的开卡费，自己决定要不要开通，区别在于月费、手续费和额度。开通后不要急着注销，因为注销了后再开卡要10U开卡费，你后面充值chatgpt plus还是要用的，建议是把Depay卡当做普通的信用卡用。
@@ -187,3 +187,7 @@ tags:
 1.  升级ChatGPT Plus每个月$20值不值？
 
     > 这是一个仁者见仁智者见智的问题，你觉得值它就值，你觉得不值，就尝试下取消续费就好。不过，应该没人会拒绝更优越的生产力吧？
+
+
+写文章很辛苦，如果您觉得我的文章对您有帮助，不妨点击文末给打赏一杯咖啡☕️吧，感谢！
+    

@@ -30,9 +30,9 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
 # 二、OpenAI官方账号
 ## 1.	申请1个OpenAI账号
 首先打开[OpenAI](https://beta.openai.com/signup)的账户注册页面。谷歌注册或者邮箱注册都可以，无所谓，我们这里用邮箱注册作为例子。
-由于某些原因，OpenAI官网需要使用科学网络才可以访问，如果你的科学网络不够稳定，可以使用[batvpn](https://bat.vpnb.net/zh/register?code=9110b9d7)，查看最新公告看看那些节点支持chatgpt，就选择那些节点，成功率会高不少。
+由于某些原因，OpenAI官网需要使用科学网络才可以访问，如果你的科学/魔法网络不够稳定，可以使用[600ml](https://v.600ml.top/#/register?code=TOcQBatp)， 600ml我自己在用2 年了都很稳定，最近他们专门针对ChatGPT&流媒体&Tiktok做了优化，现在年付的话还有8折优惠，另外他们的客服确实给力，有不懂的都可以远程协助。
 
-【注意⚠️】有小伙伴反馈说同一个梯子服务商用得人多了，有可能会被chatgpt官方屏蔽对应IP，所以建议大家不要集中同一个魔法网络，尽量分散些，我上面推荐的batVPN如果用得人多了，可以点击文章顶部->[友情链接](https://chatgpt-plus.github.io/links) --> [魔法梯子导航](https://shuziren.github.io/ssrvps/)
+【注意⚠️】有小伙伴反馈说同一个梯子服务商用得人多了，有可能会被chatgpt官方屏蔽对应IP，所以建议大家不要集中同一个魔法网络，尽量分散些，我上面推荐的600ml VPN如果用得人多了，可以点击文章顶部->[友情链接](https://chatgpt-plus.github.io/links) --> [魔法梯子导航](https://shuziren.github.io/ssrvps/)。
 
 ![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-3.png)
 
@@ -96,9 +96,9 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
  
 解决办法：切换科学网络(梯子)的节点IP并刷新页面重试，根据经验，日本、韩国和欧洲的成功率高。
 
-科学上网可以使用[batvpn](https://bat.vpnb.net/zh/register?code=9110b9d7)，查看最新公告看看那些节点支持chatgpt，就选择那些节点，成功率会高不少。
+科学上网可以使用[600ml](https://v.600ml.top/#/register?code=TOcQBatp)，查看最新公告看看那些节点支持chatgpt，就选择那些节点，成功率会高不少。
 
-【注意⚠️】有小伙伴反馈说同一个梯子服务商用得人多了，有可能会被chatgpt官方屏蔽对应IP，所以建议大家不要集中同一个魔法网络，尽量分散些，我上面推荐的batVPN如果用得人多了，可以点击文章顶部->[友情链接](https://chatgpt-plus.github.io/links) --> [魔法梯子导航](https://shuziren.github.io/ssrvps/)
+【注意⚠️】有小伙伴反馈说同一个梯子服务商用得人多了，有可能会被chatgpt官方屏蔽对应IP，所以建议大家不要集中同一个魔法网络，尽量分散些，我上面推荐的600ml VPN如果用得人多了，可以点击文章顶部->[友情链接](https://chatgpt-plus.github.io/links) --> [魔法梯子导航](https://shuziren.github.io/ssrvps/)。
 
 3.	登录chatgpt网站，遇到“Access denied, You do not have access to chat.openai.com … Error reference number 1020”错误
 

@@ -158,7 +158,7 @@ social:
   #GitHub: https://github.com/yourname || fab fa-github
   E-Mail: mailto:ai_bot@gmail.com || fa fa-envelope
   Weibo: https://weibo.com/7598511073/ || fab fa-weibo
-  友情链接: https://chatgpt-plus.github.io/links || fab fa-share
+  友情链接: https://chatgpt-plus.github.io/links || fa fa-share
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
@@ -204,7 +204,7 @@ language_switcher: false
 
 footer:
   # Specify the year when the site was setup. If not defined, current year will be used.
-  #since: 2021
+  since: 2022
 
   # Icon between year and copyright info.
   icon:

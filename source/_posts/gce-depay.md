@@ -17,7 +17,7 @@ tags:
 ##### 需要您提前准备好——
 1. 一个[Depay卡](https://depay.depay.one/web-app/register-h5?invitCode=920750&lang=zh-cn)账号。
 3. 至少2美金验证金，用于验证卡的所属权，验证完毕会归还。
-4. 科学上网，[魔法上网](https://bat.vpnb.net/zh/register?code=9110b9d7)。
+4. 科学上网，[魔法上网](https://v.600ml.top/#/register?code=TOcQBatp)
 
 ##### 一、注册Depay卡
 申请一个Depay卡(虚拟的，不需要现场办理，线上申请并kyc即可)，参考前文[《国内开通Chat GPT Plus保姆级教程【典藏】》](https://chatgpt-plus.github.io/chatgpt-plus/)中的“实操步骤”里的第2和3两步，充值2美刀也是参考这里即可。

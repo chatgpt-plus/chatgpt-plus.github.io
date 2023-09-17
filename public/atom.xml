@@ -6,7 +6,7 @@
   <link href="http://chatgpt-plus.github.io/atom.xml" rel="self"/>
   
   <link href="http://chatgpt-plus.github.io/"/>
-  <updated>2023-09-06T02:30:37.170Z</updated>
+  <updated>2023-09-17T15:56:36.278Z</updated>
   <id>http://chatgpt-plus.github.io/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>最新PS beta 25.1教程(Win+Mac), 支持生/创成式填充+神经网络滤镜！</title>
+    <link href="http://chatgpt-plus.github.io/psai25/"/>
+    <id>http://chatgpt-plus.github.io/psai25/</id>
+    <published>2023-09-07T15:13:57.000Z</published>
+    <updated>2023-09-17T15:56:36.278Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="PS 25.1 AI" scheme="http://chatgpt-plus.github.io/tags/PS-25-1-AI/"/>
+    
+    <category term="PS 25.1破解" scheme="http://chatgpt-plus.github.io/tags/PS-25-1%E7%A0%B4%E8%A7%A3/"/>
+    
+    <category term="创成式填充" scheme="http://chatgpt-plus.github.io/tags/%E5%88%9B%E6%88%90%E5%BC%8F%E5%A1%AB%E5%85%85/"/>
+    
+    <category term="生成式填充" scheme="http://chatgpt-plus.github.io/tags/%E7%94%9F%E6%88%90%E5%BC%8F%E5%A1%AB%E5%85%85/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【重磅】史上最详细的Dupay英镑借记卡(带IBAN)自助开通教程</title>
     <link href="http://chatgpt-plus.github.io/dupaymaster/"/>
     <id>http://chatgpt-plus.github.io/dupaymaster/</id>
     <published>2023-09-02T02:23:33.000Z</published>
-    <updated>2023-09-06T02:30:37.170Z</updated>
+    <updated>2023-09-15T15:42:24.091Z</updated>
     
     
       
@@ -207,9 +236,9 @@
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
-    
     <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
     
   </entry>
   

@@ -53,7 +53,7 @@ tags:
 到这里，认证所需的所有资料都已经提交完毕了，等待审核即可。提交认证完了之后需要等个1~3个工作日，实际要比这个快。
 
 申请成功后，你邮箱会收到一封成功确认信，App中可以点击底部的“升级权益“升到高端卡，每个月/每次转账都可以省手续费。
-![](./images/dupay006.jpg)
+![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//dupay006.jpg)
 
 ⚠️注意
 如果你申请被拒或者超过3个工作日还没审核，大概率是因为“手机号+证件+住宅地址”对不上，请务必详细阅读官方[《Dupay万事达借记卡使用指南》](https://morning-pig-970.notion.site/Dupay-9aad94074dac48da80c22da54ac8d4b8)。建议加入 Dupay官方电报群找客服查询。

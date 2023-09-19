@@ -103,6 +103,7 @@ menu:
   #schedule: /schedule/ || fa fa-calendar
   sitemap: /sitemap.xml || fa fa-sitemap
   commonweal: /404.html || fa fa-heartbeat
+  downloads: /downloads.html || fa fa-sharp fa-solid fa-download
   links: /links/ || fa fa-share
 
 # Enable / Disable menu icons / item badges.
@@ -179,6 +180,8 @@ links_settings:
 
 links:
   #Title: https://example.com
+
+downloads:
 
 # Table of Contents in the Sidebar
 # Front-matter variable (nonsupport wrap expand_all).

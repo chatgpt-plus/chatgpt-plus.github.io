@@ -33,6 +33,7 @@ skip_render:
   - 'verification.html'
   - 'c6f61c580aad38c48799b684e040c78e.txt'
   - '404.html'
+  - 'downloads.html'
   - 'baidu_verify_codeva-F17aYII7JO.html'
   - 'ads.txt'
   - 'BingSiteAuth.xml'

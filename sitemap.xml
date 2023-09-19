@@ -137,6 +137,13 @@
 
   
   <url>
+    <loc>http://chatgpt-plus.github.io/tags/ChatGPT-API/</loc>
+    <lastmod>2023-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chatgpt-plus.github.io/tags/ChatGPT/</loc>
     <lastmod>2023-09-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,13 +236,6 @@
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/onekey-card/</loc>
-    <lastmod>2023-09-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chatgpt-plus.github.io/tags/ChatGPT-API/</loc>
     <lastmod>2023-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

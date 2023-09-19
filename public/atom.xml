@@ -6,7 +6,7 @@
   <link href="http://chatgpt-plus.github.io/atom.xml" rel="self"/>
   
   <link href="http://chatgpt-plus.github.io/"/>
-  <updated>2023-09-17T15:56:36.278Z</updated>
+  <updated>2023-09-17T16:41:40.223Z</updated>
   <id>http://chatgpt-plus.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>最新PS beta 25.1教程(Win+Mac), 支持生/创成式填充+神经网络滤镜！</title>
+    <title>最新PS beta 25.1教程(Win+Mac), 支持生/创成式填充+神经网络滤镜</title>
     <link href="http://chatgpt-plus.github.io/psai25/"/>
     <id>http://chatgpt-plus.github.io/psai25/</id>
     <published>2023-09-07T15:13:57.000Z</published>
-    <updated>2023-09-17T15:56:36.278Z</updated>
+    <updated>2023-09-17T16:41:40.223Z</updated>
     
     
       
@@ -236,9 +236,9 @@
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
-    
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+    <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
     
   </entry>
   

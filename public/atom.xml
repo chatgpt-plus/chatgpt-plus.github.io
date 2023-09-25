@@ -6,7 +6,7 @@
   <link href="http://chatgpt-plus.github.io/atom.xml" rel="self"/>
   
   <link href="http://chatgpt-plus.github.io/"/>
-  <updated>2023-09-24T08:18:15.131Z</updated>
+  <updated>2023-09-24T11:50:05.103Z</updated>
   <id>http://chatgpt-plus.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://chatgpt-plus.github.io/takeoffchat-gpt4/"/>
     <id>http://chatgpt-plus.github.io/takeoffchat-gpt4/</id>
     <published>2023-09-22T08:12:01.000Z</published>
-    <updated>2023-09-24T08:18:15.131Z</updated>
+    <updated>2023-09-24T11:50:05.103Z</updated>
     
     
       
@@ -37,9 +37,9 @@
     
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
     
-    <category term="GPT-4 国内" scheme="http://chatgpt-plus.github.io/tags/GPT-4-%E5%9B%BD%E5%86%85/"/>
-    
     <category term="ChatGPT 购买" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-%E8%B4%AD%E4%B9%B0/"/>
+    
+    <category term="GPT-4 国内" scheme="http://chatgpt-plus.github.io/tags/GPT-4-%E5%9B%BD%E5%86%85/"/>
     
     <category term="takeoffchat" scheme="http://chatgpt-plus.github.io/tags/takeoffchat/"/>
     
@@ -211,9 +211,9 @@
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="Depay" scheme="http://chatgpt-plus.github.io/tags/Depay/"/>
-    
     <category term="ChatGPT Plus" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-Plus/"/>
+    
+    <category term="Depay" scheme="http://chatgpt-plus.github.io/tags/Depay/"/>
     
   </entry>
   
@@ -222,7 +222,7 @@
     <link href="http://chatgpt-plus.github.io/depay-card/"/>
     <id>http://chatgpt-plus.github.io/depay-card/</id>
     <published>2023-03-04T04:45:38.000Z</published>
-    <updated>2023-09-13T13:10:07.257Z</updated>
+    <updated>2023-09-25T09:01:44.821Z</updated>
     
     
       
@@ -265,9 +265,9 @@
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
-    
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+    <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
     
   </entry>
   
@@ -276,7 +276,7 @@
     <link href="http://chatgpt-plus.github.io/chatgpt-plus/"/>
     <id>http://chatgpt-plus.github.io/chatgpt-plus/</id>
     <published>2023-02-09T12:41:45.000Z</published>
-    <updated>2023-09-13T13:09:57.205Z</updated>
+    <updated>2023-09-25T09:05:00.102Z</updated>
     
     
       
@@ -294,9 +294,9 @@
     
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
     
-    <category term="ChatGPT 购买" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-%E8%B4%AD%E4%B9%B0/"/>
-    
     <category term="ChatGPT 充值" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-%E5%85%85%E5%80%BC/"/>
+    
+    <category term="ChatGPT 购买" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-%E8%B4%AD%E4%B9%B0/"/>
     
     <category term="ChatGPT Plus" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-Plus/"/>
     

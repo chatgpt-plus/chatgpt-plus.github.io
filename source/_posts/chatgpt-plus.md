@@ -50,7 +50,7 @@ tags:
 
 耐心等待欧易App安装成功，点击App首页——我要买币——快捷买币——选USDT——购买至少23USDT(大概￥200)——支持支付宝、微信或者银行卡购买。  
 
-[**注意**]：有小伙伴反馈，现在美元兑人民币汇率升高了，200 元人民币买不到 23USDT了，各位看着买，反正至少要买23个USDT。
+[**注意**]：有小伙伴反馈，现在美元兑人民币汇率升高了，200 元人民币买不到 23USDT了，各位看着买，尽量一次多充点，因为2023.09 depay改规则了，需要50U起充，所以，考虑到手续费磨损，建议这里直接充值100USDT。
 
 
 做完上面这一步，就完成人民币——USDT的兑换，也就是上面说的第一步。  
@@ -98,7 +98,9 @@ tags:
 提币地址填Depay钱包里的充值地址，这里我填TKeiEjFBDyJTAb89YhFDQCyFfLjiZJt55Z， 
 提币网络选TRC20 (千万不能选错，否则到不了账)， 
 数量选大于23USDT就行，够充值1个月ChatGPT Plus会员就行。 
+【2023.09更新：标准卡、高级卡、lite卡最低充值50usd，白金卡黑金卡最低充值10usd】
 提交，等待到账。
+
 
 ![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/5.png)
 
@@ -115,6 +117,7 @@ tags:
 ## 三、开通ChatGPT Plus
 
 我们已经在第3步中拥有了一张属于自己的虚拟信用卡(其实相当于借记卡，不可透支)，并且往里面充了20多美刀，够我们订阅1个月ChatGPT Plus了。  
+【2023.09更新：标准卡、高级卡、lite卡最低充值50usd，白金卡黑金卡最低充值10usd】
 登录ChatGPT, 左下角找到升级Plus的选项——Upgrade to Plus
 
 ![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/7.png)

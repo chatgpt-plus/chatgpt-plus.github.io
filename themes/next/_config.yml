@@ -50,10 +50,10 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/favicon-16x16-next.png
-  medium: https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/favicon-32x32-next.png
-  apple_touch_icon: https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/apple-touch-icon-next.png
-  safari_pinned_tab: https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/logo.svg
+  small: https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/favicon-16x16-next.png
+  medium: https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/favicon-32x32-next.png
+  apple_touch_icon: https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/apple-touch-icon-next.png
+  safari_pinned_tab: https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/logo.svg
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
@@ -274,8 +274,8 @@ reward_settings:
   animation: true
 
 reward:
-  wechatpay: https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/wechatpay.png
-  alipay: https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/alipay.jpg
+  wechatpay: https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/wechatpay.png
+  alipay: https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/alipay.jpg
   #paypal: /images/paypal.png
   #bitcoin: /images/bitcoin.png
 
@@ -912,7 +912,7 @@ vendors:
   plugins: cdnjs
   # Custom CDN URL
   # For example:
-  # custom_cdn_url: https://cdn.jsdelivr.net/npm/${npm_name}@${version}/${minified}
+  # custom_cdn_url: https://gcore.jsdelivr.net/npm/${npm_name}@${version}/${minified}
   # custom_cdn_url: https://cdnjs.cloudflare.com/ajax/libs/${cdnjs_name}/${version}/${cdnjs_file}
   custom_cdn_url:
 

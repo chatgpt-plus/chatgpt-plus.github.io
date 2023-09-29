@@ -11,7 +11,7 @@ tags:
 ## 1. 申请1个账号
 打开官方接码平台[https://sms-activate.org](https://sms-activate.org/?ref=4773445)，用邮箱注册一个账号，这里我用邮箱注册，激活账号并登录，此时可以看到右上角余额为0。
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-1.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-1.png)
 
  
 好了，账号注册完毕，先充值，后面用于购买国外手机号的短信验证码。
@@ -21,7 +21,7 @@ tags:
 点击右上角——充值——直接选择支付宝支付完成充值：
 
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-2.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-2.png)
  
 充值完毕，稍后刷新页面，右上角账户余额就会更新(如果没更新，多等一会儿)。
 
@@ -34,64 +34,64 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
 
 【注意⚠️】有小伙伴反馈说同一个梯子服务商用得人多了，有可能会被chatgpt官方屏蔽对应IP，所以建议大家不要集中同一个魔法网络，尽量分散些，我上面推荐的600ml VPN如果用得人多了，可以点击文章顶部->[友情链接](https://chatgpt-plus.github.io/links) --> [魔法梯子导航](https://shuziren.github.io/ssrvps/)。
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-3.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-3.png)
 
  
 如果你已经有谷歌或者微软账号，可以直接登录，如果没有也没关系，选择邮箱注册，登录邮箱激活账号。注意这里容易遇到问题，详见文末 **“问题及解决办法章节”**。
 
 如果顺利，您将会看到如下注册页面——
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-4.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-4.png)
 
  
 这里，提供你的用户名和姓，并点击继续，OpenAI会要求你输入手机号码，注意，因为不支持国内的手机号码，所以，我们才需要上面第1步注册的接码平台，利用接码平台购买一个临时的国外手机号来接收验证码。
 ## 2.	购买验证码
 回到[接码平台 sms-activate.org](https://sms-activate.org/?ref=4773445)，在左侧搜索“OpenAi”，然后点击印度——点击购物车购买。选择印度的原因是当前，截止到目前为止，印度的号码成功率最高。
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-5.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-5.png)
  
  
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-6.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-6.png)
 
 
 复制你购买的这个印度号码，在这里，我是+91（789）2418047，你的跟我不一样。
  
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-7.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-7.png)
 
 
 将号码粘贴到OpenAI的注册页面输入框里，点击下方的“**发送验证码**”按钮，
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-8.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-8.png)
 
  
 在接码平台页面，点击右侧的刷新按钮，看到6位数验证码已经显示在网页上了，复制填写，完成OpenAI注册过程。
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-9.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-9.png)
 
  
 这里，当你看到这个页面，就可以确定你的OpenAI账号已经注册成功了。这里不用管，随便选，我们下面直接去chatgpt网站去登录就好。
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-10.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-10.png)
 
 
 ## 3.	登录ChatGPT
 注册好了OpanAI账号，就可以直接登录ChatGPT了，点击[ChatGPT网站](https://chat.openai.com/auth/login) 跳转登录，尽情享受跟ChatGPT的第一亲密接触吧。这里，我尝试让ChatGPT帮我写一篇介绍如何通过sms-activate.org平台注册chatgpt账号的文章，看起来回答地还不错。
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-11.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-11.png)
 
 
 
 # 三、遇到问题及解决办法
 1.注册OpenAI账号遇到“Signup is currently unavailable, please try again later” (如下图)
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-12.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-12.png)
 
 
 解决办法：不要用163邮箱，用微软，qq, gmail都行
 
 2.	登录OpanAI账号遇到“Not available, OpenAI‘s service are not available in your country“不能在当前国家服务的提示(如下图)
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-13.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-13.png)
 
  
 解决办法：切换科学网络(梯子)的节点IP并刷新页面重试，根据经验，日本、韩国和欧洲的成功率高。
@@ -103,20 +103,20 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
 3.	登录chatgpt网站，遇到“Access denied, You do not have access to chat.openai.com … Error reference number 1020”错误
 
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-14.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-14.png)
 
  
 > 解决办法：地区限制造成的，通过科学网络切换节点IP来解决，目前日本、欧洲的节点稳定。
 
 
 4.	使用ChatGPT过程中，遇到了如下这些错误:
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-15.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-15.png)
 
 > 错误： “Too many requests in 1 hour. Try again later”
 ——1小时请求超次数限制了
 
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-16.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-16.png)
 
 > 错误：“An error occurred. If this issue persists please contact us through our help center at help.openai.com”
 —— 服务器不稳定

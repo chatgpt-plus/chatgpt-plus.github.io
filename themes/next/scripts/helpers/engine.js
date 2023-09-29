@@ -59,7 +59,7 @@ hexo.extend.helper.register('next_pre', function() {
   const { internal, plugins, custom_cdn_url } = this.theme.vendors;
   const links = {
     local   : this.theme.js && parse(this.theme.js).hostname ? parse(this.theme.js).protocol + '//' + parse(this.theme.js).hostname : '',
-    jsdelivr: 'https://cdn.jsdelivr.net',
+    jsdelivr: 'https://gcore.jsdelivr.net',
     unpkg   : 'https://unpkg.com',
     cdnjs   : 'https://cdnjs.cloudflare.com',
     custom  : custom_cdn_url && parse(custom_cdn_url).hostname ? parse(custom_cdn_url).protocol + '//' + parse(custom_cdn_url).hostname : ''

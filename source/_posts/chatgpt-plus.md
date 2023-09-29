@@ -15,7 +15,7 @@ tags:
 
 升级到付费版的ChatGPT Plus好处自然不用说，懂的都懂。比如稳定，无字数限制，不会有错误等等。  
 本文就分享一下本人(以及若干ChatGPT Plus爱好者+群友)亲测有效的ChatGPT Plus付费版升级流程。注册门槛说实话有点高，总结起来其实就下面4个步骤：
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/1.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/1.png)
 这里简单说，欧易是港股上市，国内最大的交易所，Depay(现已改名Dupay)是目前合规的最大的虚拟信用卡发行商。
 
 ## 二、实操步骤
@@ -58,7 +58,7 @@ tags:
 这里，我多买点，买36USDT，大概250人民币。
 
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-plus-new-001.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-plus-new-001.png)
 
 > 额外啰嗦一句——
   **欧易针对新人注册，会送你一个注册盲盒，盲盒里有随机的虚拟货币，大概也能值几USDT，建议卖掉换成USDT，然后买点比特币或者以太坊放着，现在价格不高刚好是低点。**
@@ -81,10 +81,10 @@ tags:
     
     卡开通后，可以往Depay里充值USDT ，这一步在接下去的第4小章节会讲到，需要用到前面注册的[欧易账号](https://www.cnouyi.limo/join/98464321)来充值USDT。
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/3.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/3.png)
     
 这里忍不住安利一下， Depay平常可以用于微信，支付宝，美团消费，直接用USDT做日常小额消费，还免收手续费，这还是很舒服的。关于这方面，花几分钟看下这篇文章[《Depay虚拟卡绑定ChatGPT以及微信、支付宝等使用场景和建议》](https://chatgpt-plus.github.io/depay-card/)，这里放1张截图，其他的不做过多阐述。
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/depay-5.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/depay-5.png)
 
 ### 4、给钱包充值USDT
 
@@ -92,7 +92,7 @@ tags:
     充值地址千万不要复制错，比如我的Depay钱包的USDT充值地址是TKeiEjFBDyJTAb89YhFDQCyFfLjiZJt55Z。
 
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/4.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/4.png)
 
 2、 打开上面第2步注册的欧易App，找到首页——资产——提币——USDT——链上提币。
 提币地址填Depay钱包里的充值地址，这里我填TKeiEjFBDyJTAb89YhFDQCyFfLjiZJt55Z， 
@@ -102,12 +102,12 @@ tags:
 提交，等待到账。
 
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/5.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/5.png)
 
 3、欧易提现到Depay成功后，点击Depay App钱包——兑换，将所有的USDT都兑换成USD美元
 
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/6.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/6.png)
 
 4、点击Depay App首页的To Card，将兑换的美元存入卡中，到此，Depay充值大功告成。
 
@@ -120,7 +120,7 @@ tags:
 【2023.09更新：标准卡、高级卡、lite卡最低充值50usd，白金卡黑金卡最低充值10usd】
 登录ChatGPT, 左下角找到升级Plus的选项——Upgrade to Plus
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/7.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/7.png)
 
 一些群友反馈没有出现这个升级的选项，记得把IP切换到美国或者欧洲再重新登陆，现阶段只有美国或欧洲的IP才会有这个选项，(升级的时候需要国际IP，升级完毕后不要求)。
 
@@ -142,23 +142,23 @@ tags:
 
 理论上随便填都行，你可以网上搜美国地址生成器，直接生成一个免税州的账单地址:
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/8.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/8.png)
 请一定要用美国或者欧洲的IP访问，不行的话多切几个节点试验，否则可能会遇到如下报错，这里没有其他办法。
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/11.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/11.png)
 
 ## 四、ChatGPT Plus初体验
 
 看到如下PLUS的尊贵标识，就说明你已经成功开通ChatGPT Plus了。  
 只能说，这钱花的值，你将拥有了AI的丝滑体验。
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/9.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/9.png)
 
 
 每个月大概不到￥150，也就3杯星巴克的钱，换来的是一个高效的信息获取渠道，不亏，是一个跨时代的生产力。
 
 至此，恭喜您，已经成为了尊贵的ChatGPT Plus用户，成为全球走在时代前沿的人了。从现在起，访问ChatGPT Plus就拥有Default和Legacy双模型回答，以及快速、稳定的AI回复。
 
-![image.png](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/10.png)
+![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/10.png)
 
 
 ## 五、常见问题&解决

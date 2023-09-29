@@ -12,17 +12,17 @@ tags:
 
 
 Photoshop Beta 应用程序发布了生成式AI绘图，此版本已支持中文提示词，支持生成式(创成式)填充，同时还附带了最新神经滤镜，还没升级的抓紧升级体验——
-![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps001.png)
-![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps001-1.png)
-![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps001-2.png)
+![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps001.png)
+![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps001-1.png)
+![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps001-2.png)
 
 安装过程不多说了，[网盘](https://pan.quark.cn/s/f7d6d0034672)正常下载，正常解压按照教程安装即可，PS 25.1版本，Windows和MAC版本都有，全界面中文、支持100多种语言输入（包括中文）
-![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps002.png)
-![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps002-1.png)
+![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps002.png)
+![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps002-1.png)
 
 Photoshop (Beta)的ai体验还是不错的
-![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps003.png)
-![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps004.png)
+![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps003.png)
+![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps004.png)
 
 ### 常见报错处理
 1. Photoshop (Beta) 25.1开启AI功能需要电脑配置很高吗？

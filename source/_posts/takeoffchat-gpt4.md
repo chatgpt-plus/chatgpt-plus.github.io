@@ -13,18 +13,18 @@ tags:
 
 #### 邮箱注册
 可以直接用谷歌账号登录，当然，它也同时支持国内邮箱注册，注册好后从邮箱找到激活码，登录即可，不需要[魔法网络🪜](https://shuziren.github.io/ssrvps/) 。
-![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/takeoffchat001.png)
+![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/takeoffchat001.png)
 
 #### 免费赠送20000个积分
 登录后，选择第一个免费的套餐就可以，免费赠送20000个积分，每次跟AI交互需要消耗若干个token。
-![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/takeoffchat002.png)
+![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/takeoffchat002.png)
 
 GPT-4消耗地比GPT-3.5快，所以，非必要的话，默认选GPT-3.5就好，积分省着点用。
-![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/takeoffchat002-1.png)
+![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/takeoffchat002-1.png)
 
 #### 来体验一下GPT-4
-![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/takeoffchat003.png)
-![](https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/takeoffchat004.png)
+![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/takeoffchat003.png)
+![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/takeoffchat004.png)
 
 #### 积分用完了怎么办？
 答：重新注册个邮箱，土豪的话你就设置里绑卡花钱买吧。

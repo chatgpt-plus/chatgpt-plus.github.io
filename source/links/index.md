@@ -70,7 +70,7 @@ date: 2023-06-17 01:34:27
       <div class="links-content">
          <div class="link-navigation">
             <div class="card">
-               <img class="ava" src="https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/ssa-favicon.ico" />
+               <img class="ava" src="https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/ssa-favicon.ico" />
                <div class="card-header">
                   <div>
                      <a href="https://shuziren.github.io/ssrvps/">梯子，魔法网络、高速机场、VPS导航</a>
@@ -79,7 +79,7 @@ date: 2023-06-17 01:34:27
                </div>
             </div>
             <div class="card">
-               <img class="ava" src="https://cdn.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/bi-logo.png" />
+               <img class="ava" src="https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/bi-logo.png" />
                <div class="card-header">
                   <div>
                      <a href="https://heiyetouzi.xyz">黑叶投资——币圈入门、港美股</a>

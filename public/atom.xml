@@ -211,9 +211,9 @@
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="ChatGPT Plus" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-Plus/"/>
-    
     <category term="Depay" scheme="http://chatgpt-plus.github.io/tags/Depay/"/>
+    
+    <category term="ChatGPT Plus" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-Plus/"/>
     
   </entry>
   
@@ -265,9 +265,9 @@
     <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
-    
     <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
     
   </entry>
   

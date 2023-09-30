@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://chatgpt-plus.github.io/chatgpt-plus/</loc>
+    
+    <lastmod>2023-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chatgpt-plus.github.io/gpt-4/</loc>
     
     <lastmod>2023-09-29</lastmod>
@@ -57,15 +66,6 @@
   
   <url>
     <loc>http://chatgpt-plus.github.io/onekey-card/</loc>
-    
-    <lastmod>2023-09-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chatgpt-plus.github.io/chatgpt-plus/</loc>
     
     <lastmod>2023-09-29</lastmod>
     
@@ -160,13 +160,6 @@
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/tags/Depay/</loc>
-    <lastmod>2023-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chatgpt-plus.github.io/tags/ChatGPT-%E5%85%85%E5%80%BC/</loc>
     <lastmod>2023-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -182,6 +175,13 @@
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/ChatGPT-Plus/</loc>
+    <lastmod>2023-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.github.io/tags/Depay/</loc>
     <lastmod>2023-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -279,20 +279,6 @@
   </url>
   
   <url>
-    <loc>http://chatgpt-plus.github.io/tags/GPT-4-%E5%9B%BD%E5%86%85/</loc>
-    <lastmod>2023-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chatgpt-plus.github.io/tags/takeoffchat/</loc>
-    <lastmod>2023-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chatgpt-plus.github.io/tags/rockflow/</loc>
     <lastmod>2023-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -301,6 +287,20 @@
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/%E7%BE%8E%E6%B8%AF%E8%82%A1/</loc>
+    <lastmod>2023-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.github.io/tags/GPT-4-%E5%9B%BD%E5%86%85/</loc>
+    <lastmod>2023-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.github.io/tags/takeoffchat/</loc>
     <lastmod>2023-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

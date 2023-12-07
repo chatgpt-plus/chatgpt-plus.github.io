@@ -1,6 +1,6 @@
-http://chatgpt-plus.github.io/chatgpt-plus/
-http://chatgpt-plus.github.io/depay-card/
 http://chatgpt-plus.github.io/onekey-card/
+http://chatgpt-plus.github.io/depay-card/
+http://chatgpt-plus.github.io/chatgpt-plus/
 http://chatgpt-plus.github.io/gce-depay/
 http://chatgpt-plus.github.io/chatgpt/
 http://chatgpt-plus.github.io/gpt-4/
@@ -19,11 +19,11 @@ http://chatgpt-plus.github.io/tags/ChatGPT/
 http://chatgpt-plus.github.io/tags/ChatGPT-%E5%85%85%E5%80%BC/
 http://chatgpt-plus.github.io/tags/ChatGPT-%E8%B4%AD%E4%B9%B0/
 http://chatgpt-plus.github.io/tags/ChatGPT-Plus/
+http://chatgpt-plus.github.io/tags/Depay/
 http://chatgpt-plus.github.io/tags/Dupay%E5%80%9F%E8%AE%B0%E5%8D%A1/
 http://chatgpt-plus.github.io/tags/Dupay-master/
 http://chatgpt-plus.github.io/tags/Dupay%E5%85%85%E5%80%BC/
 http://chatgpt-plus.github.io/tags/Depay%E5%BC%80%E9%80%9A%E6%B3%A8%E5%86%8C/
-http://chatgpt-plus.github.io/tags/Depay/
 http://chatgpt-plus.github.io/tags/%E8%B0%B7%E6%AD%8C%E4%BA%91/
 http://chatgpt-plus.github.io/tags/VPS/
 http://chatgpt-plus.github.io/tags/%E8%96%85%E7%BE%8A%E6%AF%9B/

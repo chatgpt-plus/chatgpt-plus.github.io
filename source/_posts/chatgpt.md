@@ -10,6 +10,7 @@ tags:
 # 一、Sms-active接码平台
 ## 1. 申请1个账号
 打开官方接码平台[https://sms-activate.org](https://sms-activate.org/?ref=4773445)，用邮箱注册一个账号，这里我用邮箱注册，激活账号并登录，此时可以看到右上角余额为0。
+[**注意**]: 有小伙伴反馈sms-activate有的时候收不到验证码，如果有遇到，建议试试[onlinesim.io](https://onlinesim.io/?aref=5217677)。
 
 ![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-1.png)
 
@@ -30,9 +31,9 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
 # 二、OpenAI官方账号
 ## 1.	申请1个OpenAI账号
 首先打开[OpenAI](https://beta.openai.com/signup)的账户注册页面。谷歌注册或者邮箱注册都可以，无所谓，我们这里用邮箱注册作为例子。
-由于某些原因，OpenAI官网需要使用科学网络才可以访问，如果你的科学/魔法网络不够稳定，可以使用[600ml](https://v.600ml.top/#/register?code=TOcQBatp)， 600ml我自己在用2 年了都很稳定，最近他们专门针对ChatGPT&流媒体&Tiktok做了优化，现在年付的话还有8折优惠，另外他们的客服确实给力，有不懂的都可以远程协助。
+由于某些原因，OpenAI官网需要使用科学网络才可以访问，如果你的科学/魔法网络不够稳定，可以使用[batvpn](https://bat.vpnb.net/register?code=9110b9d7)， batvpn我自己在用2 年了都很稳定，最近他们专门针对ChatGPT&流媒体&Tiktok做了优化，现在年付的话还有8折优惠，另外他们的客服确实给力，有不懂的都可以远程协助。
 
-【注意⚠️】有小伙伴反馈说同一个梯子服务商用得人多了，有可能会被chatgpt官方屏蔽对应IP，所以建议大家不要集中同一个魔法网络，尽量分散些，我上面推荐的600ml VPN如果用得人多了，可以点击文章顶部->[友情链接](https://chatgpt-plus.github.io/links) --> [魔法梯子导航](https://shuziren.github.io/ssrvps/)。
+【注意⚠️】有小伙伴反馈说同一个梯子服务商用得人多了，有可能会被chatgpt官方屏蔽对应IP，所以建议大家不要集中同一个魔法网络，尽量分散些，我上面推荐的batvpnVPN如果用得人多了，可以点击文章顶部->[友情链接](https://chatgpt-plus.github.io/links) --> [魔法梯子导航](https://shuziren.github.io/ssrvps/)。
 
 ![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-3.png)
 
@@ -46,7 +47,7 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
  
 这里，提供你的用户名和姓，并点击继续，OpenAI会要求你输入手机号码，注意，因为不支持国内的手机号码，所以，我们才需要上面第1步注册的接码平台，利用接码平台购买一个临时的国外手机号来接收验证码。
 ## 2.	购买验证码
-回到[接码平台 sms-activate.org](https://sms-activate.org/?ref=4773445)，在左侧搜索“OpenAi”，然后点击印度——点击购物车购买。选择印度的原因是当前，截止到目前为止，印度的号码成功率最高。
+回到接码平台[sms-activate.org](https://sms-activate.org/?ref=4773445)，在左侧搜索“OpenAi”，然后点击印度——点击购物车购买。选择印度的原因是当前，截止到目前为止，印度的号码成功率最高。当然，如果印度的不行，接着试其它国家的，不成功不收费，放心。
 
 ![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-5.png)
  
@@ -65,7 +66,7 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
 ![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-8.png)
 
  
-在接码平台页面，点击右侧的刷新按钮，看到6位数验证码已经显示在网页上了，复制填写，完成OpenAI注册过程。
+在接码平台页面，等待片刻，也可以点击右侧的刷新按钮，看到6位数验证码已经显示在网页上了，复制填写，完成OpenAI注册过程。
 
 ![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/chatgpt-9.png)
 
@@ -96,9 +97,9 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
  
 解决办法：切换科学网络(梯子)的节点IP并刷新页面重试，根据经验，日本、韩国和欧洲的成功率高。
 
-科学上网可以使用[600ml](https://v.600ml.top/#/register?code=TOcQBatp)，查看最新公告看看那些节点支持chatgpt，就选择那些节点，成功率会高不少。
+科学上网可以使用[batvpn](https://bat.vpnb.net/register?code=9110b9d7)，查看最新公告看看那些节点支持chatgpt，就选择那些节点，成功率会高不少。
 
-【注意⚠️】有小伙伴反馈说同一个梯子服务商用得人多了，有可能会被chatgpt官方屏蔽对应IP，所以建议大家不要集中同一个魔法网络，尽量分散些，我上面推荐的600ml VPN如果用得人多了，可以点击文章顶部->[友情链接](https://chatgpt-plus.github.io/links) --> [魔法梯子导航](https://shuziren.github.io/ssrvps/)。
+【注意⚠️】有小伙伴反馈说同一个梯子服务商用得人多了，有可能会被chatgpt官方屏蔽对应IP，所以建议大家不要集中同一个魔法网络，尽量分散些，我上面推荐的batvpn, VPN如果用得人多了，可以点击文章顶部->[友情链接](https://chatgpt-plus.github.io/links) --> [魔法梯子导航](https://shuziren.github.io/ssrvps/)。
 
 3.	登录chatgpt网站，遇到“Access denied, You do not have access to chat.openai.com … Error reference number 1020”错误
 
@@ -135,7 +136,7 @@ OK，暂时先不管接码平台，我们先去ChatGPT之父山姆·奥特曼创
 
 
 # 四、总结
-怎么说呢，免费的毕竟是不稳定的，还是有限制的，申请完体验一下还可以，要是真想把ChatGPT变成我们自己的准备长期用，如果有条件，还是建议按照我之前写的这篇[国内开通Chat GPT Plus保姆级教程【典藏】](https://chatgpt-plus.github.io)，升级到ChatGPT Plus，一劳永逸!
+怎么说呢，免费的毕竟是不稳定的，还是有限制的，申请完体验一下还可以，要是真想把ChatGPT变成我们自己的准备长期用，有条件的话，还是建议按照这篇手把手教程[《国内开通Chat GPT Plus保姆级教程【典藏】》](https://chatgpt-plus.github.io)，将普通ChatGPT账号升级到ChatGPT Plus，可以使用丰富的Plus功能以及最新的文本生视频利器Sora，一劳永逸!
 
 毕竟，生产力的提升，对我们自己的帮助是巨大的。
 

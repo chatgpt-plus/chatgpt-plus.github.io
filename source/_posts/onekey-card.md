@@ -15,7 +15,7 @@ tags:
 
 ### 注册Onekey Card
 
-1.  点击官网链接：[https://card.onekey.so](https://card.onekey.so/?i=CA6RMD) 需要梯子(魔法网络)才能访问，进入注册界面, 如果你的梯子(魔法网络)不够稳定，可以使用[600ml](https://v.600ml.top/#/register?code=TOcQBatp)，搞定梯子后，点击 \[ sign in with Google ] ，直接使用谷歌账户注册。
+1.  点击官网链接：[https://card.onekey.so](https://card.onekey.so/?i=CA6RMD) 需要梯子(魔法网络)才能访问，进入注册界面, 如果你的梯子(魔法网络)不够稳定，可以使用[batvpn](https://bat.vpnb.net/register?code=9110b9d7)，搞定梯子后，点击 \[ sign in with Google ] ，直接使用谷歌账户注册。
 
 ![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/onekey001.png)
 2. 账号注册后，点击\[ Activate ]激活开通。卡片类型选VISA，目前是公测期间，只能通过邀请码来激活卡片，这里统一填写官方给定的邀请码：CA6RMD 【亲测，仍然有效】
@@ -60,7 +60,7 @@ tags:
 ![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/onekey012.png)
 
 **注意⚠️**  
-需要注意的是，根据监管要求，第一次注册欧易的用户，默认完成身份认证后，需要等待24小时(有的人需要7天)才可以提现，如果你着急提现到Onekey Card，你可以尝试找一下人工客服，说下你的诉求，据群友反馈，有一定概率可以解除24小时等待。万一你真的特别着急，你也可以去微博上找代充，一般对方会按照汇率1:8收点劳务费。不是很急的话建议耐心等待24小时就行，不必花这冤枉钱。
+需要注意的是，根据监管要求，第一次注册欧易的用户，默认完成身份认证后，有可能需要等待24小时(有的人需要7天)才可以提现，如果你着急提现到Onekey Card，你可以尝试找一下人工客服，说下你的诉求，据群友反馈，有一定概率可以解除24小时等待。万一你真的特别着急，你也可以去微博上找代充，一般对方会按照汇率1:8收点劳务费。不是很急的话建议耐心等待24小时就行，不必花这冤枉钱。
 如果你充值被欧易冻结7天不愿意等的话，可以试试[币安Biance](https://www.binance.com/en/activity/referral/offers/claim?ref=CPA_00JBDZVLUF)，最多只冻结24小时，不过需要梯子(魔法网络)才能访问。
 
 更多魔法网络，可以点击文章顶部->[友情链接](https://chatgpt-plus.github.io/links) --> [魔法梯子导航](https://shuziren.github.io/ssrvps/)。

@@ -6,7 +6,7 @@
   <link href="http://chatgpt-plus.github.io/atom.xml" rel="self"/>
   
   <link href="http://chatgpt-plus.github.io/"/>
-  <updated>2023-09-29T03:58:56.533Z</updated>
+  <updated>2024-02-19T13:38:08.271Z</updated>
   <id>http://chatgpt-plus.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>OpenAI文本生视频Sora账号申请——保姆级教程包教包会</title>
+    <link href="http://chatgpt-plus.github.io/sora-openai/"/>
+    <id>http://chatgpt-plus.github.io/sora-openai/</id>
+    <published>2024-02-17T12:32:33.000Z</published>
+    <updated>2024-02-19T13:38:08.271Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    
+    
+    <category term="Sora" scheme="http://chatgpt-plus.github.io/tags/Sora/"/>
+    
+    <category term="Sora注册" scheme="http://chatgpt-plus.github.io/tags/Sora%E6%B3%A8%E5%86%8C/"/>
+    
+    <category term="Sora申请" scheme="http://chatgpt-plus.github.io/tags/Sora%E7%94%B3%E8%AF%B7/"/>
+    
+    <category term="Sora API" scheme="http://chatgpt-plus.github.io/tags/Sora-API/"/>
+    
+  </entry>
   
   <entry>
     <title>教你3分钟学会国内免费使用GPT-4的方法</title>

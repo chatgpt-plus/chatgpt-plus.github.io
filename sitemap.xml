@@ -155,13 +155,6 @@
 
   
   <url>
-    <loc>http://chatgpt-plus.github.io/tags/ChatGPT-API/</loc>
-    <lastmod>2024-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://chatgpt-plus.github.io/tags/ChatGPT/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -184,6 +177,13 @@
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/ChatGPT-Plus/</loc>
+    <lastmod>2024-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.github.io/tags/ChatGPT-API/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -288,6 +288,20 @@
   </url>
   
   <url>
+    <loc>http://chatgpt-plus.github.io/tags/rockflow/</loc>
+    <lastmod>2024-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://chatgpt-plus.github.io/tags/%E7%BE%8E%E6%B8%AF%E8%82%A1/</loc>
+    <lastmod>2024-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://chatgpt-plus.github.io/tags/Sora/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -310,20 +324,6 @@
   
   <url>
     <loc>http://chatgpt-plus.github.io/tags/Sora-API/</loc>
-    <lastmod>2024-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chatgpt-plus.github.io/tags/rockflow/</loc>
-    <lastmod>2024-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://chatgpt-plus.github.io/tags/%E7%BE%8E%E6%B8%AF%E8%82%A1/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

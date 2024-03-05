@@ -49,7 +49,7 @@ tags:
 
 充值USDT，需要通过欧易平台，这是在国内比较容易购买到USDC或USDT的交易所。
 
-如果你还没有欧易账号，那么先[点击这里-->跳转官网注册欧易账号](https://www.cnouyi.limo/join/79853740)
+如果你还没有欧易账号，那么先[点击这里-->跳转官网注册欧易账号](https://www.cnouyi.limo/join/18639032)
 
 首先，参考文章 [国内开通Chat GPT Plus保姆级教程【典藏】](https://chatgpt-plus.github.io/chatgpt-plus/#2%E3%80%81%E7%94%B3%E8%AF%B7%E6%AC%A7%E6%98%93%E8%B4%A6%E5%8F%B7%E5%AE%8C%E6%88%90USDT%E5%85%85%E5%80%BC)中的 “**申请欧易账号完成USDT充值**”章节完成欧易注册以及USDT的充值过程。
 

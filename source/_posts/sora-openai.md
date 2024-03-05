@@ -10,7 +10,7 @@ tags:
 - Sora API
 ---
 ### Sora介绍
-OpenAI这两天刚发布的Sora是一款文本生成视频模型，它可以根据用户输入的文本描述生成高清视频，支持长达60秒的视频生成，提供多角度镜头切换，能够模拟物理效果，如咬痕或踩奶效果，甚至可以从图片生成视频——包括动画、音乐视频、宣传片、教育视频、游戏、动画、短片等，可以说是摄影师、设计师、导演、自媒体行业的一颗重磅炸弹。相比其他竞品最长不超过5秒的视频，Sora可以说是降维打击。
+OpenAI这两天刚发布的Sora是一款文本生成视频模型，它可以根据用户输入的文本描述生成高清视频，支持长达60秒的视频生成，提供多角度镜头切换，能够模拟物理效果，如咬痕或踩奶效果，甚至可以从图片生成视频——包括动画、音乐视频、宣传片、教育视频、游戏、短片等，可以说是摄影师、设计师、导演、自媒体行业的一颗重磅炸弹。相比其他竞品最长不超过5秒的视频，Sora可以说是降维打击。
 
 对此，马斯克对Sora的评价:“人类认赌服输但AI增强的人类将创造出最好作品Jim Fan感叹:Sora是一个数据驱动的物理引擎”。
 
@@ -18,7 +18,7 @@ OpenAI这两天刚发布的Sora是一款文本生成视频模型，它可以根�
 OpenAI的Sora，跟目前市面上已知的模型之间，各方面都有了很大的提升——
 ![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/sora-compare.png)
 OpenAI官方对Sora原理给出了更严谨的论文阐述，如果你有兴趣，可以移步官网：[《video-generation-models-as-world-simulators》](https://openai.com/research/video-generation-models-as-world-simulators)。
-简单地说，你给sora输入一句“一只蚂蚁穿过蚁穴”，稍等片刻，它就可以给你生成一个如下所示栩栩如生的视频-
+简单地说，你给sora输入一句“**一只蚂蚁穿过蚁穴**”，稍等片刻，它就可以给你生成一个如下所示栩栩如生的视频-
 <iframe 
     src="https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/sora-mayi.mp4"
     width="800" 
@@ -27,7 +27,7 @@ OpenAI官方对Sora原理给出了更严谨的论文阐述，如果你有兴趣�
     allowfullscreen>
 </iframe>
 
-再比如说，你给sora输入一句“一只寄居蟹使用白炽灯泡作为外壳，在夜间行动”，稍等片刻，它又可以给你生成一个逼真地可怕的视频—
+再比如说，你给sora输入一句“**一只寄居蟹使用白炽灯泡作为外壳，在夜间行动**”，稍等片刻，它又可以给你生成一个逼真地可怕的视频—
 <iframe 
     src="https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/sora-jijuxie.mp4"
     width="800" 
@@ -48,8 +48,8 @@ OpenAI官方对Sora原理给出了更严谨的论文阐述，如果你有兴趣�
 但是，据官方透露的消息，**OpenAI近期大概率会宣布将Sora首批开放给Chatgpt Plus用户申请使用**。所以，请务必提前准备好Chatgpt Plus。
 
 #### ChatGPT Plus申请
-网上教程很多，这里不展开，如果你还没有Plus账号，建议按照[ChatGPT Plus官方推荐新手教程](https://chatgpt-plus.github.io/)手把手先按头申请一个，国内用户的话，步骤稍微会复杂一些，需要你稍微耐心点，好在现在还有时间。
-总结起来，申请Plus大致分为3个步骤：
+网上教程很多，这里不展开，如果你还没有Plus账号，建议按照[《ChatGPT Plus官方推荐新手教程》](https://chatgpt-plus.github.io/)手把手先按头申请一个，国内用户的话，步骤稍微会复杂一些，需要你稍微耐心点，好在现在还有时间。
+总结起来，申请Sora大致分为3个步骤：
 1. 免费注册一个OpenAI账号，申请免费的ChatGPT账号；
 2. 给ChatGPT账号充值USD，升级成ChatGPT Plus账号；
 3. 等待OpenAI官方近期宣布ChatGPT Plus用户提前试用Sora；
@@ -64,7 +64,7 @@ OpenAI官方对Sora原理给出了更严谨的论文阐述，如果你有兴趣�
 3. 如何给Sora生成的视频智能配音？
 `答：当下最好的选择是ElevenLabs，即将开放试用。`
 
-### 结束语
+### 写在最后的话
 有了ChatGPT，人人都是作家；
 有了Sora，人人都是导演。将剧本变成场景，将概念变成图像，将限制变成可能性；
 普通人只有不间断持续学习，才不会被这个社会淘汰，骚年，抓紧试用gpt plus和sora吧！

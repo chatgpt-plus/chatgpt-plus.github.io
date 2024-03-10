@@ -22,7 +22,7 @@ tags:
 要完成上述4个步骤，你需要提前准备好：
 
 1.  注册1个可用的ChatGPT账号
-1.  注册1个虚拟交易平台[欧易账号](https://www.ouxyi.supply/join/76527935)(没得选，国内符合政策法规安全的只有它)
+1.  注册1个虚拟交易平台[欧易账号](https://www.okx.com/cn/join/76527935)(没得选，国内符合政策法规安全的只有它)
 1.  申请1张虚拟信用卡(选[Depay](https://dupay.one/web-app/register-h5?invitCode=hmXfgp&lang=zh-cn)，群里小伙伴都是用它)
 1.  能正常访问ChatGPT的科学(魔法)上网条件（建议选美国或者欧洲的代理节点）
 
@@ -33,14 +33,14 @@ tags:
 
 已经有ChatGPT账号的，直接进入第2步，走起！
 
-### 2、申请[欧易](https://www.ouxyi.supply/join/76527935)账号完成USDT充值
+### 2、申请[欧易](https://www.okx.com/cn/join/76527935)账号完成USDT充值
 
 因为Depay(Dupay)不接受人民币直接充值，所以我们必须借助交易所平台，来完成  
 **人民币—USDT—USD美元** 的兑换过程，等Depay账户里有USD美元了再给ChatGPT Plus 充值。这里，对USDT不熟悉的朋友我说一下，USDT是虚拟货币泰达币，跟USD美元锚定的，背后有大而不倒的金融机构担保，只要USD在它就在，安全性不用担心。
 
-关于交易所，咱国内用户，受前两年国家整顿的政策影响，当下国家支持并且靠谱的大交易所目前就仅剩下[欧易](https://www.ouxyi.supply/join/76527935)一家独大了，咱没得选，乖乖注册一个欧易账号就好。
+关于交易所，咱国内用户，受前两年国家整顿的政策影响，当下国家支持并且靠谱的大交易所目前就仅剩下[欧易](https://www.okx.com/cn/join/76527935)一家独大了，咱没得选，乖乖注册一个欧易账号就好。
 
-[点击这里-->跳转官网注册欧易账号](https://www.ouxyi.supply/join/76527935)
+[点击这里-->跳转官网注册欧易账号](https://www.okx.com/cn/join/76527935)
 
 
 等待欧易账号注册好，下载并安装APP，安装过程中如果系统提示有安全风险，不必理会，对于虚拟货币，系统都会误报，咱们这是正规官网下载的，哪来的风险，忽略就好。
@@ -78,7 +78,7 @@ tags:
     不得不说，拥有一张Depay虚拟信用卡在线上支付方面还是很方便的，它支持绑定支付宝、微信支付、美团外卖、拼多多、Paypal、天猫国际版，苹果美区商店等，具体你们可以去搜一下"Depay作用"。 
     关于Depay的任何使用问题，都可以去[Depay官方电报群](https://t.me/depay_visa)反馈(需要科学访问)。
     
-    卡开通后，可以往Depay里充值USDT ，这一步在接下去的第4小章节会讲到，需要用到前面注册的[欧易账号](https://www.ouxyi.supply/join/76527935)来充值USDT。
+    卡开通后，可以往Depay里充值USDT ，这一步在接下去的第4小章节会讲到，需要用到前面注册的[欧易账号](https://www.okx.com/cn/join/76527935)来充值USDT。
 
 ![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/3.png)
     
@@ -87,13 +87,13 @@ tags:
 
 ### 4、给钱包充值USDT
 
-1、   打开Depay App钱包，找到**钱包——USDT——充币——复制你的充值地址**，确认屏幕上显示主网是TRC20，  
+1、 打开Depay App钱包，找到**钱包——USDT——充币——复制你的充值地址**，确认屏幕上显示主网是TRC20，  
     充值地址千万不要复制错，比如我的Depay钱包的USDT充值地址是TKeiEjFBDyJTAb89YhFDQCyFfLjiZJt55Z。
 
 
 ![image.png](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/4.png)
 
-2、 打开上面第2步注册的欧易App，找到**首页——资产——提币——提取数字货币——搜索USDT——选择"链上提币"**。
+2、 打开上面第2步注册的欧易App，找到 **首页——资产——提币——提取数字货币——搜索USDT——选择"链上提币"** 。
 **提币地址**填Depay钱包里的充值地址，这里我填TKeiEjFBDyJTAb89YhFDQCyFfLjiZJt55Z， 
 **提币网络**选TRC20 (网络千万不能选错，否则到不了账)， 
 **提币金额**选大于50USDT就行，够充值1个月ChatGPT Plus会员就行。 

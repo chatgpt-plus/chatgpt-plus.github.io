@@ -7,7 +7,7 @@ tags:
 - ChatGPT
 ---
 
-前面我们在《[国内开通Chat GPT Plus保姆级教程【典藏】](https://chatgpt-plus.github.io/chatgpt-plus/)》官方教程中提到可以用当下最流行的[Depay虚拟卡](https://dupay.one/web-app/register-h5?invitCode=hmXfgp&lang=zh-cn)+[欧易交易平台](https://www.ouxyi.supply/join/76527935)的组合方式，来解决OpenAI官方不支持中国内地借记卡、信用卡给ChatGPT Plus以及ChatGPT API支付的难题。
+前面我们在《[国内开通Chat GPT Plus保姆级教程【典藏】](https://chatgpt-plus.github.io/chatgpt-plus/)》官方教程中提到可以用当下最流行的[Depay虚拟卡](https://dupay.one/web-app/register-h5?invitCode=hmXfgp&lang=zh-cn)+[欧易交易平台](https://www.okx.com/cn/join/76527935)的组合方式，来解决OpenAI官方不支持中国内地借记卡、信用卡给ChatGPT Plus以及ChatGPT API支付的难题。
 这篇，我们就来详细介绍一下Depay卡，以及如何用它充值的USDT来绑定微信，支付宝日常小额消费。
 
 ## 一、	什么是Depay

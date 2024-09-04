@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://chatgpt-plus.github.io//takeoffchat-gpt4/</loc>
+    <lastmod>2024-09-04</lastmod>
+  </url>
+  <url>
+    <loc>http://chatgpt-plus.github.io//sora-openai/</loc>
+    <lastmod>2024-09-04</lastmod>
+  </url>
+  <url>
+    <loc>http://chatgpt-plus.github.io//onekey-card/</loc>
+    <lastmod>2024-09-04</lastmod>
+  </url>
+  <url>
+    <loc>http://chatgpt-plus.github.io//gpt-4/</loc>
+    <lastmod>2024-09-04</lastmod>
+  </url>
+  <url>
+    <loc>http://chatgpt-plus.github.io//dupaymaster/</loc>
+    <lastmod>2024-09-04</lastmod>
+  </url>
+  <url>
+    <loc>http://chatgpt-plus.github.io//depay-card/</loc>
+    <lastmod>2024-09-04</lastmod>
+  </url>
+  <url>
+    <loc>http://chatgpt-plus.github.io//chatgpt/</loc>
+    <lastmod>2024-09-04</lastmod>
+  </url>
+  <url>
     <loc>http://chatgpt-plus.github.io//chatgpt-tiaojiao/</loc>
+    <lastmod>2024-09-04</lastmod>
+  </url>
+  <url>
+    <loc>http://chatgpt-plus.github.io//chatgpt-rumen-to-jingtong-02-jichuzhishi/</loc>
+    <lastmod>2024-09-04</lastmod>
+  </url>
+  <url>
+    <loc>http://chatgpt-plus.github.io//chatgpt-rumen-to-jingtong-01-jianjie/</loc>
+    <lastmod>2024-09-04</lastmod>
+  </url>
+  <url>
+    <loc>http://chatgpt-plus.github.io//chatgpt-plus/</loc>
     <lastmod>2024-09-04</lastmod>
   </url>
   <url>
@@ -9,48 +49,12 @@
     <lastmod>2024-09-04</lastmod>
   </url>
   <url>
-    <loc>http://chatgpt-plus.github.io//onekey-card/</loc>
-    <lastmod>2024-09-01</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//depay-card/</loc>
-    <lastmod>2024-09-01</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//chatgpt-plus/</loc>
-    <lastmod>2024-09-01</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//chatgpt-rumen-to-jingtong-02-jichuzhishi/</loc>
-    <lastmod>2024-08-22</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//chatgpt-rumen-to-jingtong-01-jianjie/</loc>
-    <lastmod>2024-08-22</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//sora-openai/</loc>
-    <lastmod>2024-02-19</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//chatgpt/</loc>
-    <lastmod>2024-02-19</lastmod>
+    <loc>http://chatgpt-plus.github.io//chatgpt-api-key/</loc>
+    <lastmod>2024-09-04</lastmod>
   </url>
   <url>
     <loc>http://chatgpt-plus.github.io//gce-depay/</loc>
     <lastmod>2023-10-12</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//gpt-4/</loc>
-    <lastmod>2023-09-29</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//dupaymaster/</loc>
-    <lastmod>2023-09-29</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//chatgpt-api-key/</loc>
-    <lastmod>2023-09-29</lastmod>
   </url>
   <url>
     <loc>http://chatgpt-plus.github.io//rockflow/</loc>
@@ -58,10 +62,6 @@
   </url>
   <url>
     <loc>http://chatgpt-plus.github.io//psai25/</loc>
-    <lastmod>2023-09-29</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//takeoffchat-gpt4/</loc>
     <lastmod>2023-09-29</lastmod>
   </url>
 </urlset> 

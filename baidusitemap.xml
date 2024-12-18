@@ -2,15 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://chatgpt-plus.github.io//onekey-card/</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-12-18</lastmod>
   </url>
   <url>
     <loc>http://chatgpt-plus.github.io//depay-card/</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-12-18</lastmod>
   </url>
   <url>
     <loc>http://chatgpt-plus.github.io//chatgpt-plus/</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-12-18</lastmod>
+  </url>
+  <url>
+    <loc>http://chatgpt-plus.github.io//psai25/</loc>
+    <lastmod>2024-12-18</lastmod>
   </url>
   <url>
     <loc>http://chatgpt-plus.github.io//chatgpt-tiaojiao/</loc>
@@ -66,10 +70,6 @@
   </url>
   <url>
     <loc>http://chatgpt-plus.github.io//rockflow/</loc>
-    <lastmod>2023-09-29</lastmod>
-  </url>
-  <url>
-    <loc>http://chatgpt-plus.github.io//psai25/</loc>
     <lastmod>2023-09-29</lastmod>
   </url>
 </urlset> 

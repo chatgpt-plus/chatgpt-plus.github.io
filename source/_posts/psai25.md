@@ -16,7 +16,7 @@ Photoshop Beta 应用程序发布了生成式AI绘图，此版本已支持中文
 ![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps001-1.png)
 ![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps001-2.png)
 
-安装过程不多说了，[网盘](https://pan.quark.cn/s/f7d6d0034672)正常下载，正常解压按照教程安装即可，PS 25.1版本，Windows和MAC版本都有，全界面中文、支持100多种语言输入（包括中文）
+安装过程不多说了，[网盘](https://pan.quark.cn/s/f7439a9d9d53)正常下载，正常解压按照教程安装即可，PS 25.1版本，Windows和MAC版本都有，全界面中文、支持100多种语言输入（包括中文）
 ![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps002.png)
 ![](https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img//ps002-1.png)
 

@@ -7,6 +7,13 @@ tags:
 - GPT-4 国内
 - ChatGPT 购买
 - takeoffchat
+- depay chatgpt
+- chatgpt充值
+- chatgpt 充值
+- chatgpt plus充值
+- gpt plus账号
+- chatgpt充值教程
+- chatgpt plus购买
 ---
 
 发现了一个网站[](www.takeoffchat.com)可以免费使用GPT-4，只需3分钟邮箱注册个账号就好，完全没套路。

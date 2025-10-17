@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 6.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/favicon-16x16-next.png">
+  <link rel="mask-icon" href="https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha256-Z1K5uhUaJXA7Ll0XrZ/0JhX4lAtZFpT6jkKrEDT0drU=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"chatgpt-plus.github.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.14.2","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js"></script>
+
+
+    <meta name="description" content="ChatGPT 是一种基于深度学习的自然语言处理技术，其核心是一个神经网络模型。为了更好地理解 ChatGPT 技术 的原理和实现，本章将介绍 ChatGPT 的基础知识，包括深度学习基础、自然语言处理基础、循环神经网络基础和 注意力机制基础。 1. 深度学习基础深度学习是一种基于人工神经网络的机器学习技术，可以用来解决多种复杂的问题，比如图像识别、自然语言处理、语音识别等。深度学习的核心是多层神">
+<meta property="og:type" content="article">
+<meta property="og:title" content="ChatGPT从入门到精通-第2章-基础知识">
+<meta property="og:url" content="http://chatgpt-plus.github.io/chatgpt-rumen-to-jingtong-02-jichuzhishi/index.html">
+<meta property="og:site_name" content="ChatGPT Plus官方推荐新手教程">
+<meta property="og:description" content="ChatGPT 是一种基于深度学习的自然语言处理技术，其核心是一个神经网络模型。为了更好地理解 ChatGPT 技术 的原理和实现，本章将介绍 ChatGPT 的基础知识，包括深度学习基础、自然语言处理基础、循环神经网络基础和 注意力机制基础。 1. 深度学习基础深度学习是一种基于人工神经网络的机器学习技术，可以用来解决多种复杂的问题，比如图像识别、自然语言处理、语音识别等。深度学习的核心是多层神">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://chatgpt-plus.github.io/images/chatgpt-rumen-02-001.png">
+<meta property="og:image" content="http://chatgpt-plus.github.io/images/chatgpt-rumen-02-002.png">
+<meta property="article:published_time" content="2023-11-13T00:33:32.000Z">
+<meta property="article:modified_time" content="2024-09-29T01:05:53.891Z">
+<meta property="article:author" content="AI理性派思考者">
+<meta property="article:tag" content="chatgpt充值">
+<meta property="article:tag" content="ChatGPT">
+<meta property="article:tag" content="Claude">
+<meta property="article:tag" content="depay chatgpt">
+<meta property="article:tag" content="chatgpt 充值">
+<meta property="article:tag" content="chatgpt plus充值">
+<meta property="article:tag" content="gpt plus账号">
+<meta property="article:tag" content="chatgpt充值教程">
+<meta property="article:tag" content="chatgpt plus购买">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://chatgpt-plus.github.io/images/chatgpt-rumen-02-001.png">
+
+
+<link rel="canonical" href="http://chatgpt-plus.github.io/chatgpt-rumen-to-jingtong-02-jichuzhishi/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"http://chatgpt-plus.github.io/chatgpt-rumen-to-jingtong-02-jichuzhishi/","path":"/chatgpt-rumen-to-jingtong-02-jichuzhishi/","title":"ChatGPT从入门到精通-第2章-基础知识"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>ChatGPT从入门到精通-第2章-基础知识 | ChatGPT Plus官方推荐新手教程</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZX6XCJR8MW"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"G-ZX6XCJR8MW","only_pageview":false}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
+
+
+
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="ChatGPT Plus官方推荐新手教程" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">ChatGPT Plus官方推荐新手教程</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">chatgpt, where interaction knows no limits.</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">18</span></a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签<span class="badge">39</span></a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类<span class="badge">4</span></a></li><li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a></li><li class="menu-item menu-item-commonweal"><a href="/404.html" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a></li><li class="menu-item menu-item-downloads"><a href="/downloads.html" rel="section"><i class="fa fa-sharp fa-solid fa-download fa-fw"></i>资源下载</a></li><li class="menu-item menu-item-links"><a href="/links/" rel="section"><i class="fa fa-share fa-fw"></i>友情链接</a></li>
+  </ul>
+</nav>
+
+
+
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#1-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80"><span class="nav-number">1.</span> <span class="nav-text">1. 深度学习基础</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%9F%BA%E7%A1%80"><span class="nav-number">2.</span> <span class="nav-text">2. 自然语言处理基础</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80"><span class="nav-number">3.</span> <span class="nav-text">3. 循环神经网络基础</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4-%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6%E5%9F%BA%E7%A1%80"><span class="nav-number">4.</span> <span class="nav-text">4. 注意力机制基础</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A6%82%E4%BD%95%E5%8D%87%E7%BA%A7%E5%88%B0chatgpt-plus"><span class="nav-number">4.1.</span> <span class="nav-text">如何升级到chatgpt plus</span></a></li></ol></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">AI理性派思考者</p>
+  <div class="site-description" itemprop="description">ChatGPT Plus，智能交流的新维度。</div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">18</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">4</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">39</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author animated">
+      <span class="links-of-author-item">
+        <a href="mailto:ai_bot@gmail.com" title="E-Mail → mailto:ai_bot@gmail.com" rel="noopener me" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://weibo.com/7598511073/" title="Weibo → https:&#x2F;&#x2F;weibo.com&#x2F;7598511073&#x2F;" rel="noopener me" target="_blank"><i class="fab fa-weibo fa-fw"></i>Weibo</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://chatgpt-plus.github.io/links" title="友情链接 → https:&#x2F;&#x2F;chatgpt-plus.github.io&#x2F;links" rel="noopener me"><i class="fa fa-share fa-fw"></i>友情链接</a>
+      </span>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://chatgpt-plus.github.io/chatgpt-rumen-to-jingtong-02-jichuzhishi/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="AI理性派思考者">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="ChatGPT Plus官方推荐新手教程">
+      <meta itemprop="description" content="ChatGPT Plus，智能交流的新维度。">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="ChatGPT从入门到精通-第2章-基础知识 | ChatGPT Plus官方推荐新手教程">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          ChatGPT从入门到精通-第2章-基础知识
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+  
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2023-11-13 08:33:32" itemprop="dateCreated datePublished" datetime="2023-11-13T08:33:32+08:00">2023-11-13</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2024-09-29 09:05:53" itemprop="dateModified" datetime="2024-09-29T09:05:53+08:00">2024-09-29</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/ChatGPT/" itemprop="url" rel="index"><span itemprop="name">ChatGPT</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">阅读次数：</span>
+      <span id="busuanzi_value_page_pv"></span>
+    </span>
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="本文字数">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">本文字数：</span>
+      <span>2k</span>
+    </span>
+    <span class="post-meta-item" title="阅读时长">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">阅读时长 &asymp;</span>
+      <span>3 分钟</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p>ChatGPT 是一种基于深度学习的自然语言处理技术，其核心是一个神经网络模型。为了更好地理解 ChatGPT 技术 的原理和实现，本章将介绍 ChatGPT 的基础知识，包括深度学习基础、自然语言处理基础、循环神经网络基础和 注意力机制基础。</p>
+<h2 id="1-深度学习基础"><a href="#1-深度学习基础" class="headerlink" title="1. 深度学习基础"></a>1. 深度学习基础</h2><p>深度学习是一种基于人工神经网络的机器学习技术，可以用来解决多种复杂的问题，比如图像识别、自然语言处理、语音识别等。深度学习的核心是多层神经网络，通过多层非线性变换和特征提取，将输入数据映射到输出空间中，并逐步优化网络参数，使得网络能够对输入数据进行更加准确的预测和分类。</p>
+<p>深度学习技术的发展离不开计算机硬件的提升和数据的增⻓。随着计算机硬件的不断升级和数据的不断积累，深度学习技术在图像识别、自然语言处理、语音识别等领域取得了突破性的成果。比如，在图像识别领域，深度学习技术已经能够实现与人类水平相当的准确率;在自然语言处理领域，深度学习技术已经成为最主流的技术之一，被广泛应用于文本分类、文本生成、机器翻译、对话系统等多种任务中。</p>
+<p>在深度学习技术中，常⻅的神经网络模型包括卷积神经网络、循环神经网络和自编码器等。这些模型的核心是多层神经元，每一层神经元都可以理解为对输入数据的一种变换，通过不断的变换和特征提取，最终将输入数据映射到输出空间中。<br><img src="/./images/chatgpt-rumen-02-001.png" alt="image.png"></p>
+<h2 id="2-自然语言处理基础"><a href="#2-自然语言处理基础" class="headerlink" title="2. 自然语言处理基础"></a>2. 自然语言处理基础</h2><p>自然语言处理是一种将自然语言文本转化为计算机可处理形式的技术，旨在让计算机能够理解和产生自然语言。自然语言处理技术是人工智能领域中的一个重要分支，可以应用于多种任务，比如文本分类、文本生成、机器翻译、对话系统等。自然语言处理技术的发展历程可以追溯到上世纪 50 年代。随着计算机硬件和数据的不断发展，自然语言处理技术 在近几年得到了快速的发展。</p>
+<p>目前，自然语言处理技术已经实现了很多关键性突破，比如机器翻译、文本生成、情 感分析等。其中，机器翻译技术已经成为自然语言处理领域的一个重要应用方向，可以实现不同语言之间的自动翻 译。在自然语言处理技术中，最常用的技术包括词向量、序列模型和注意力机制等。其中，词向量是自然语言处理的基础，它可以将单词映射到高维空间中，并计算单词之间的相似性和相关性。序列模型是自然语言处理的核心技术，可以对序列数据进行建模和预测，比如循环神经网络和卷积神经网络。注意力机制是自然语言处理的重要技术，可以实现对不同部分的输入数据赋予不同的权重，并提高模型的准确率和泛化性能。</p>
+<h2 id="3-循环神经网络基础"><a href="#3-循环神经网络基础" class="headerlink" title="3. 循环神经网络基础"></a>3. 循环神经网络基础</h2><p>循环神经网络是一种基于序列数据的神经网络模型，可以用来解决自然语言处理领域中的多种任务，比如文本生成、机器翻译、对话系统等。循环神经网络的核心是一个循环单元，它可以对序列数据进行状态传递，并利用上一时刻的状态信息来更新当前时刻的状态信息。</p>
+<p>循环神经网络的优点在于可以处理变⻓序列数据，并且可以利用历史信息来预测未来。循环神经网络的局限在于难 以处理⻓期依赖关系，因为在反向传播过程中，梯度信息会不断衰减，导致梯度爆炸或梯度消失的问题。为了解决 这个问题，近年来出现了很多变体和改进方法，比如 LSTM、GRU 等。<br><img src="/./images/chatgpt-rumen-02-002.png" alt="image.png"></p>
+<h2 id="4-注意力机制基础"><a href="#4-注意力机制基础" class="headerlink" title="4. 注意力机制基础"></a>4. 注意力机制基础</h2><p>注意力机制是一种用于序列数据建模的技术，可以实现对不同部分的输入数据赋予不同的权重，从而提高模型的准确率和泛化性能。注意力机制最初是在机器翻译领域中提出的，用来实现对源语言句子和目标语言句子之间的对⻬。随着时间的推移，注意力机制被广泛应用于各种自然语言处理任务中，比如文本分类、文本生成、对话系统等。</p>
+<p>注意力机制的核心是计算输入数据之间的相似度或关联程度，并将其作为权重分配给不同部分的输入数据。在文本生成任务中，注意力机制可以实现对历史文本和当前文本的关注，从而生成更加准确和自然的文本。在对话系统中，注意力机制可以实现对用户输入和系统回复的关注，从而实现更加流畅和自然的对话。注意力机制的实现方式有很多种，比如点积注意力、加性注意力、多头注意力等。其中，多头注意力是目前最常用的一种注意力机制，它可以将输入数据划分成多个头，每个头计算一种不同的注意力分布，并将它们组合起来得到最终的注意力向量。多头注意力可以有效地处理多种不同的输入数据关系，提高模型的准确率和泛化性能。</p>
+<p>通过学习本章的内容，读者可以了解 ChatGPT 技术所依赖的深度学习和自然语言处理的基础知识，包括神经网络 模型、词向量、循环神经网络和注意力机制等。这些知识是掌握 ChatGPT 技术的基础，也是实现更加复杂的自然 语言处理任务的前提。在下一章中，我们将介绍 ChatGPT 的实现方法，包括数据预处理、模型架构、训练和优化 等方面的内容。</p>
+<blockquote>
+</blockquote>
+<p>点击👉🏻下载<a href="https://chatgpt-plus.github.io/downloads.html">《2024最新多案例ChatGPT从入门到精通(高清文字117页完整版).pdf》</a></p>
+<h3 id="如何升级到chatgpt-plus"><a href="#如何升级到chatgpt-plus" class="headerlink" title="如何升级到chatgpt plus"></a>如何升级到chatgpt plus</h3><p>参考全网最详细的80岁老奶奶都能看懂的自助升级教程——<a href="https://chatgpt-plus.github.io/">国内开通Chat GPT Plus保姆级教程【典藏】</a></p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="reward-container">
+  <div>能否给我买杯蜜雪冰城呢？</div>
+  <button>
+    来都来了，打个赏吧！
+  </button>
+  <div class="post-reward">
+      <div>
+        <img src="https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/wechatpay.png" alt="AI理性派思考者 微信">
+        <span>微信</span>
+      </div>
+      <div>
+        <img src="https://gcore.jsdelivr.net/gh/btcltceth/blogassets@latest/c/img/alipay.jpg" alt="AI理性派思考者 支付宝">
+        <span>支付宝</span>
+      </div>
+
+  </div>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/chatgpt%E5%85%85%E5%80%BC/" rel="tag"># chatgpt充值</a>
+              <a href="/tags/ChatGPT/" rel="tag"># ChatGPT</a>
+              <a href="/tags/Claude/" rel="tag"># Claude</a>
+              <a href="/tags/depay-chatgpt/" rel="tag"># depay chatgpt</a>
+              <a href="/tags/chatgpt-%E5%85%85%E5%80%BC/" rel="tag"># chatgpt 充值</a>
+              <a href="/tags/chatgpt-plus%E5%85%85%E5%80%BC/" rel="tag"># chatgpt plus充值</a>
+              <a href="/tags/gpt-plus%E8%B4%A6%E5%8F%B7/" rel="tag"># gpt plus账号</a>
+              <a href="/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/" rel="tag"># chatgpt充值教程</a>
+              <a href="/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/" rel="tag"># chatgpt plus购买</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/chatgpt-rumen-to-jingtong-01-jianjie/" rel="prev" title="ChatGPT从入门到精通-第1章-简介">
+                  <i class="fa fa-chevron-left"></i> ChatGPT从入门到精通-第1章-简介
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/chatgpt-chatgpt-4o/" rel="next" title="chatgpt-4o到底是什么来头？">
+                  chatgpt-4o到底是什么来头？ <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 2022 – 
+  <span itemprop="copyrightYear">2025</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">AI理性派思考者</span>
+</div>
+<div class="wordcount">
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-line"></i>
+    </span>
+    <span title="站点总字数">46k</span>
+  </span>
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+    <span title="站点阅读时长">1:17</span>
+  </span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a> 强力驱动
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+  <div class="sidebar-dimmer"></div>
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script>
+
+  
+
+
+
+
+  
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+
+
+
+</body>
+</html>

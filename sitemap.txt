@@ -1,6 +1,6 @@
-http://chatgpt-plus.github.io/chatgpt-plus/
-http://chatgpt-plus.github.io/depay-card/
 http://chatgpt-plus.github.io/onekey-card/
+http://chatgpt-plus.github.io/depay-card/
+http://chatgpt-plus.github.io/chatgpt-plus/
 http://chatgpt-plus.github.io/psai25/
 http://chatgpt-plus.github.io/links/index.html
 http://chatgpt-plus.github.io/chatgpt-tiaojiao/
@@ -26,15 +26,15 @@ http://chatgpt-plus.github.io/tags/chatgpt-plus/
 http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/
 http://chatgpt-plus.github.io/tags/chatgpt-%E8%B4%AD%E4%B9%B0/
 http://chatgpt-plus.github.io/tags/ChatGPT%E6%8F%90%E9%97%AE%E6%8A%80%E5%B7%A7/
-http://chatgpt-plus.github.io/tags/ChatGPT/
-http://chatgpt-plus.github.io/tags/Claude/
+http://chatgpt-plus.github.io/tags/ChatGPT-API/
 http://chatgpt-plus.github.io/tags/depay-chatgpt/
 http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/
 http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/
 http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/
 http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/
 http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/
-http://chatgpt-plus.github.io/tags/ChatGPT-API/
+http://chatgpt-plus.github.io/tags/ChatGPT/
+http://chatgpt-plus.github.io/tags/Claude/
 http://chatgpt-plus.github.io/tags/ChatGPT-%E5%85%85%E5%80%BC/
 http://chatgpt-plus.github.io/tags/ChatGPT-%E8%B4%AD%E4%B9%B0/
 http://chatgpt-plus.github.io/tags/ChatGPT-Plus/

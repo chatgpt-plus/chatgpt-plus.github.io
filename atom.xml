@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ChatGPT Plus官方推荐新手教程</title>
+  <title>ChatGPT充值升级教程</title>
   
-  <subtitle>chatgpt, where interaction knows no limits.</subtitle>
-  <link href="http://chatgpt-plus.github.io/atom.xml" rel="self"/>
+  <subtitle>国内ChatGPT会员、Plus升级、虚拟卡U卡开通与防封指南</subtitle>
+  <link href="https://chatgpt-plus.github.io/atom.xml" rel="self"/>
   
-  <link href="http://chatgpt-plus.github.io/"/>
-  <updated>2024-09-29T01:05:33.866Z</updated>
-  <id>http://chatgpt-plus.github.io/</id>
+  <link href="https://chatgpt-plus.github.io/"/>
+  <updated>2026-09-09T16:32:15.023Z</updated>
+  <id>https://chatgpt-plus.github.io/</id>
   
   <author>
     <name>AI理性派思考者</name>
@@ -17,335 +17,369 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>ChatGPT代充靠谱吗？自己充值升级Plus更安全</title>
+    <link href="https://chatgpt-plus.github.io/chatgpt-daichong/"/>
+    <id>https://chatgpt-plus.github.io/chatgpt-daichong/</id>
+    <published>2026-09-09T16:42:00.000Z</published>
+    <updated>2026-09-09T16:32:15.023Z</updated>
+    
+    
+    <summary type="html">ChatGPT代充看起来省事，但常见风险是盗号、黑卡和封号。国内想开通ChatGPT会员，更建议用虚拟卡/U卡自己充值，完成ChatGPT Plus升级。</summary>
+    
+    
+    
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    
+    
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
+    
+    <category term="chatgpt plus" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus/"/>
+    
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    
+    <category term="chatgpt虚拟卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E8%99%9A%E6%8B%9F%E5%8D%A1/"/>
+    
+    <category term="chatgpt代充" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BB%A3%E5%85%85/"/>
+    
+    <category term="chatgpt升级" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%8D%87%E7%BA%A7/"/>
+    
+    <category term="chatgpt封号" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%B0%81%E5%8F%B7/"/>
+    
+    <category term="chatgpt u卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt-u%E5%8D%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ChatGPT封号怎么办？自助开通Plus比代充更不容易封</title>
+    <link href="https://chatgpt-plus.github.io/chatgpt-fenghao/"/>
+    <id>https://chatgpt-plus.github.io/chatgpt-fenghao/</id>
+    <published>2026-09-09T16:40:00.000Z</published>
+    <updated>2026-09-09T16:32:15.009Z</updated>
+    
+    
+    <summary type="html">ChatGPT封号常见原因是买共享号、找代充、脏IP和反复支付失败。本文说明如何申诉，以及用虚拟卡/U卡自助充值升级ChatGPT Plus来降低封号风险。</summary>
+    
+    
+    
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    
+    
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
+    
+    <category term="chatgpt plus" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus/"/>
+    
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    
+    <category term="chatgpt虚拟卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E8%99%9A%E6%8B%9F%E5%8D%A1/"/>
+    
+    <category term="chatgpt代充" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BB%A3%E5%85%85/"/>
+    
+    <category term="chatgpt升级" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%8D%87%E7%BA%A7/"/>
+    
+    <category term="chatgpt封号" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%B0%81%E5%8F%B7/"/>
+    
+    <category term="chatgpt u卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt-u%E5%8D%A1/"/>
+    
+  </entry>
+  
+  <entry>
     <title>ChatGPT 有效对话的七个技巧（适合初学者）</title>
-    <link href="http://chatgpt-plus.github.io/chatgpt-7-skills/"/>
-    <id>http://chatgpt-plus.github.io/chatgpt-7-skills/</id>
+    <link href="https://chatgpt-plus.github.io/chatgpt-7-skills/"/>
+    <id>https://chatgpt-plus.github.io/chatgpt-7-skills/</id>
     <published>2024-06-08T13:32:29.000Z</published>
-    <updated>2024-09-29T01:05:33.866Z</updated>
+    <updated>2026-09-09T16:32:54.176Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">ChatGPT提问技巧。配合官方Plus会员使用体验更好，国内可通过虚拟卡自助升级。</summary>
     
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="ChatGPT提问技巧" scheme="http://chatgpt-plus.github.io/tags/ChatGPT%E6%8F%90%E9%97%AE%E6%8A%80%E5%B7%A7/"/>
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
     
-    <category term="chatgpt plus" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus/"/>
+    <category term="chatgpt plus" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus/"/>
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt 购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E8%B4%AD%E4%B9%B0/"/>
+    <category term="chatgpt 购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E8%B4%AD%E4%B9%B0/"/>
+    
+    <category term="ChatGPT提问技巧" scheme="https://chatgpt-plus.github.io/tags/ChatGPT%E6%8F%90%E9%97%AE%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
   <entry>
     <title>巧用Chatgpt提效,优化你的工作流程(真实案例)</title>
-    <link href="http://chatgpt-plus.github.io/ai-tixiao/"/>
-    <id>http://chatgpt-plus.github.io/ai-tixiao/</id>
+    <link href="https://chatgpt-plus.github.io/ai-tixiao/"/>
+    <id>https://chatgpt-plus.github.io/ai-tixiao/</id>
     <published>2024-05-07T13:32:29.000Z</published>
-    <updated>2024-09-29T01:05:23.495Z</updated>
+    <updated>2026-09-09T16:32:54.173Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">ChatGPT工作提效案例。有ChatGPT Plus会员后，这些流程会更稳定。</summary>
     
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="chatgpt plus" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus/"/>
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="ChatGPT工作提效" scheme="https://chatgpt-plus.github.io/tags/ChatGPT%E5%B7%A5%E4%BD%9C%E6%8F%90%E6%95%88/"/>
     
-    <category term="chatgpt 购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E8%B4%AD%E4%B9%B0/"/>
+    <category term="chatgpt plus" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus/"/>
     
-    <category term="ChatGPT工作提效" scheme="http://chatgpt-plus.github.io/tags/ChatGPT%E5%B7%A5%E4%BD%9C%E6%8F%90%E6%95%88/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    
+    <category term="chatgpt 购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E8%B4%AD%E4%B9%B0/"/>
     
   </entry>
   
   <entry>
     <title>OpenAI文本生视频Sora账号申请——保姆级教程包教包会</title>
-    <link href="http://chatgpt-plus.github.io/sora-openai/"/>
-    <id>http://chatgpt-plus.github.io/sora-openai/</id>
+    <link href="https://chatgpt-plus.github.io/sora-openai/"/>
+    <id>https://chatgpt-plus.github.io/sora-openai/</id>
     <published>2024-02-17T12:32:33.000Z</published>
-    <updated>2026-09-09T16:12:48.372Z</updated>
+    <updated>2026-09-09T16:32:54.163Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">Sora账号申请教程。需要先有ChatGPT Plus会员，国内用虚拟卡/U卡自助充值升级即可。</summary>
     
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="gate card" scheme="http://chatgpt-plus.github.io/tags/gate-card/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="chatgpt 充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
+    <category term="gate card" scheme="https://chatgpt-plus.github.io/tags/gate-card/"/>
     
-    <category term="chatgpt plus充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt 充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
     
-    <category term="gpt plus账号" scheme="http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
+    <category term="chatgpt plus充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt充值教程" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    <category term="gpt plus账号" scheme="https://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
     
-    <category term="chatgpt plus购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    <category term="chatgpt充值教程" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
     
-    <category term="Sora" scheme="http://chatgpt-plus.github.io/tags/Sora/"/>
+    <category term="chatgpt plus购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
     
-    <category term="Sora注册" scheme="http://chatgpt-plus.github.io/tags/Sora%E6%B3%A8%E5%86%8C/"/>
+    <category term="Sora" scheme="https://chatgpt-plus.github.io/tags/Sora/"/>
     
-    <category term="Sora申请" scheme="http://chatgpt-plus.github.io/tags/Sora%E7%94%B3%E8%AF%B7/"/>
+    <category term="Sora注册" scheme="https://chatgpt-plus.github.io/tags/Sora%E6%B3%A8%E5%86%8C/"/>
     
-    <category term="Sora API" scheme="http://chatgpt-plus.github.io/tags/Sora-API/"/>
+    <category term="Sora申请" scheme="https://chatgpt-plus.github.io/tags/Sora%E7%94%B3%E8%AF%B7/"/>
+    
+    <category term="Sora API" scheme="https://chatgpt-plus.github.io/tags/Sora-API/"/>
     
   </entry>
   
   <entry>
     <title>全网最全的chatgpt调教指南——一篇看懂所有的调教技巧!</title>
-    <link href="http://chatgpt-plus.github.io/chatgpt-tiaojiao/"/>
-    <id>http://chatgpt-plus.github.io/chatgpt-tiaojiao/</id>
+    <link href="https://chatgpt-plus.github.io/chatgpt-tiaojiao/"/>
+    <id>https://chatgpt-plus.github.io/chatgpt-tiaojiao/</id>
     <published>2023-12-21T19:11:13.000Z</published>
-    <updated>2026-09-09T16:12:48.381Z</updated>
+    <updated>2026-09-09T16:32:54.180Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">ChatGPT调教提示词大全。建议在自己的ChatGPT会员账号里使用，避免共享号封号。</summary>
     
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="gate card" scheme="http://chatgpt-plus.github.io/tags/gate-card/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="chatgpt 充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
+    <category term="gate card" scheme="https://chatgpt-plus.github.io/tags/gate-card/"/>
     
-    <category term="chatgpt plus充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt 充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
     
-    <category term="gpt plus账号" scheme="http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
+    <category term="chatgpt plus充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt充值教程" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    <category term="gpt plus账号" scheme="https://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
     
-    <category term="chatgpt plus购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    <category term="chatgpt充值教程" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    <category term="chatgpt plus购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
     
-    <category term="Claude" scheme="http://chatgpt-plus.github.io/tags/Claude/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+    <category term="Claude" scheme="https://chatgpt-plus.github.io/tags/Claude/"/>
+    
+    <category term="chatgpt封号" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%B0%81%E5%8F%B7/"/>
     
   </entry>
   
   <entry>
     <title>chatgpt-4o到底是什么来头？</title>
-    <link href="http://chatgpt-plus.github.io/chatgpt-chatgpt-4o/"/>
-    <id>http://chatgpt-plus.github.io/chatgpt-chatgpt-4o/</id>
+    <link href="https://chatgpt-plus.github.io/chatgpt-chatgpt-4o/"/>
+    <id>https://chatgpt-plus.github.io/chatgpt-chatgpt-4o/</id>
     <published>2023-12-17T02:22:13.000Z</published>
-    <updated>2026-09-09T16:12:48.379Z</updated>
+    <updated>2026-09-09T16:32:54.167Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">ChatGPT 4o能力说明。想稳定使用，建议自己开通ChatGPT Plus会员，而不是买号或代充。</summary>
     
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="gate card" scheme="http://chatgpt-plus.github.io/tags/gate-card/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="chatgpt 充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
+    <category term="gate card" scheme="https://chatgpt-plus.github.io/tags/gate-card/"/>
     
-    <category term="chatgpt plus充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt 充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
     
-    <category term="gpt plus账号" scheme="http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
+    <category term="chatgpt plus充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt充值教程" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    <category term="gpt plus账号" scheme="https://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
     
-    <category term="chatgpt plus购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    <category term="chatgpt充值教程" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    <category term="chatgpt plus购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
     
-    <category term="Claude" scheme="http://chatgpt-plus.github.io/tags/Claude/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+    <category term="Claude" scheme="https://chatgpt-plus.github.io/tags/Claude/"/>
     
   </entry>
   
   <entry>
     <title>ChatGPT从入门到精通-第2章-基础知识</title>
-    <link href="http://chatgpt-plus.github.io/chatgpt-rumen-to-jingtong-02-jichuzhishi/"/>
-    <id>http://chatgpt-plus.github.io/chatgpt-rumen-to-jingtong-02-jichuzhishi/</id>
+    <link href="https://chatgpt-plus.github.io/chatgpt-rumen-to-jingtong-02-jichuzhishi/"/>
+    <id>https://chatgpt-plus.github.io/chatgpt-rumen-to-jingtong-02-jichuzhishi/</id>
     <published>2023-11-13T00:33:32.000Z</published>
-    <updated>2026-09-09T16:12:48.399Z</updated>
+    <updated>2026-09-09T16:32:54.186Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">ChatGPT基础知识。需要更稳定模型时，再用虚拟卡完成ChatGPT充值升级。</summary>
     
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="gate card" scheme="http://chatgpt-plus.github.io/tags/gate-card/"/>
+    <category term="gate card" scheme="https://chatgpt-plus.github.io/tags/gate-card/"/>
     
-    <category term="chatgpt 充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt 充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt plus充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt plus充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
     
-    <category term="gpt plus账号" scheme="http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
+    <category term="gpt plus账号" scheme="https://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
     
-    <category term="chatgpt充值教程" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    <category term="chatgpt充值教程" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
     
-    <category term="chatgpt plus购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    <category term="chatgpt plus购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/tags/ChatGPT/"/>
     
-    <category term="Claude" scheme="http://chatgpt-plus.github.io/tags/Claude/"/>
+    <category term="Claude" scheme="https://chatgpt-plus.github.io/tags/Claude/"/>
     
   </entry>
   
   <entry>
     <title>ChatGPT从入门到精通-第1章-简介</title>
-    <link href="http://chatgpt-plus.github.io/chatgpt-rumen-to-jingtong-01-jianjie/"/>
-    <id>http://chatgpt-plus.github.io/chatgpt-rumen-to-jingtong-01-jianjie/</id>
+    <link href="https://chatgpt-plus.github.io/chatgpt-rumen-to-jingtong-01-jianjie/"/>
+    <id>https://chatgpt-plus.github.io/chatgpt-rumen-to-jingtong-01-jianjie/</id>
     <published>2023-11-11T09:33:32.000Z</published>
-    <updated>2026-09-09T16:12:48.397Z</updated>
+    <updated>2026-09-09T16:32:54.184Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">ChatGPT入门简介。学完后可按充值教程自助升级ChatGPT Plus会员。</summary>
     
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="gate card" scheme="http://chatgpt-plus.github.io/tags/gate-card/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="chatgpt 充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
+    <category term="gate card" scheme="https://chatgpt-plus.github.io/tags/gate-card/"/>
     
-    <category term="chatgpt plus充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt 充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
     
-    <category term="gpt plus账号" scheme="http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
+    <category term="chatgpt plus充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt充值教程" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    <category term="gpt plus账号" scheme="https://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
     
-    <category term="chatgpt plus购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    <category term="chatgpt充值教程" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    <category term="chatgpt plus购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
     
-    <category term="Claude" scheme="http://chatgpt-plus.github.io/tags/Claude/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+    <category term="Claude" scheme="https://chatgpt-plus.github.io/tags/Claude/"/>
     
   </entry>
   
   <entry>
     <title>教你3分钟学会国内免费使用GPT-4的方法</title>
-    <link href="http://chatgpt-plus.github.io/takeoffchat-gpt4/"/>
-    <id>http://chatgpt-plus.github.io/takeoffchat-gpt4/</id>
+    <link href="https://chatgpt-plus.github.io/takeoffchat-gpt4/"/>
+    <id>https://chatgpt-plus.github.io/takeoffchat-gpt4/</id>
     <published>2023-09-22T08:12:01.000Z</published>
-    <updated>2026-09-09T16:12:48.375Z</updated>
+    <updated>2026-09-09T16:32:54.170Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">国内免费试用GPT-4的方法。长期使用仍建议自己做ChatGPT充值，升级官方Plus会员。</summary>
     
     
     
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="gate card" scheme="http://chatgpt-plus.github.io/tags/gate-card/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="chatgpt 充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
+    <category term="gate card" scheme="https://chatgpt-plus.github.io/tags/gate-card/"/>
     
-    <category term="chatgpt plus充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt 充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
     
-    <category term="gpt plus账号" scheme="http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
+    <category term="chatgpt plus充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt充值教程" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    <category term="gpt plus账号" scheme="https://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
     
-    <category term="chatgpt plus购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    <category term="chatgpt充值教程" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    <category term="chatgpt plus购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
     
-    <category term="ChatGPT 购买" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-%E8%B4%AD%E4%B9%B0/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/tags/ChatGPT/"/>
     
-    <category term="GPT-4 国内" scheme="http://chatgpt-plus.github.io/tags/GPT-4-%E5%9B%BD%E5%86%85/"/>
+    <category term="GPT-4 国内" scheme="https://chatgpt-plus.github.io/tags/GPT-4-%E5%9B%BD%E5%86%85/"/>
     
-    <category term="takeoffchat" scheme="http://chatgpt-plus.github.io/tags/takeoffchat/"/>
+    <category term="ChatGPT 购买" scheme="https://chatgpt-plus.github.io/tags/ChatGPT-%E8%B4%AD%E4%B9%B0/"/>
+    
+    <category term="takeoffchat" scheme="https://chatgpt-plus.github.io/tags/takeoffchat/"/>
     
   </entry>
   
   <entry>
     <title>最新PS beta 25.1教程(Win+Mac), 支持生/创成式填充+神经网络滤镜</title>
-    <link href="http://chatgpt-plus.github.io/psai25/"/>
-    <id>http://chatgpt-plus.github.io/psai25/</id>
+    <link href="https://chatgpt-plus.github.io/psai25/"/>
+    <id>https://chatgpt-plus.github.io/psai25/</id>
     <published>2023-09-07T15:13:57.000Z</published>
     <updated>2024-12-18T12:30:28.206Z</updated>
     
@@ -361,94 +395,94 @@
     
     
     
-    <category term="PS 25.1 AI" scheme="http://chatgpt-plus.github.io/tags/PS-25-1-AI/"/>
+    <category term="PS 25.1 AI" scheme="https://chatgpt-plus.github.io/tags/PS-25-1-AI/"/>
     
-    <category term="PS 25.1破解" scheme="http://chatgpt-plus.github.io/tags/PS-25-1%E7%A0%B4%E8%A7%A3/"/>
+    <category term="PS 25.1破解" scheme="https://chatgpt-plus.github.io/tags/PS-25-1%E7%A0%B4%E8%A7%A3/"/>
     
-    <category term="创成式填充" scheme="http://chatgpt-plus.github.io/tags/%E5%88%9B%E6%88%90%E5%BC%8F%E5%A1%AB%E5%85%85/"/>
+    <category term="创成式填充" scheme="https://chatgpt-plus.github.io/tags/%E5%88%9B%E6%88%90%E5%BC%8F%E5%A1%AB%E5%85%85/"/>
     
-    <category term="生成式填充" scheme="http://chatgpt-plus.github.io/tags/%E7%94%9F%E6%88%90%E5%BC%8F%E5%A1%AB%E5%85%85/"/>
+    <category term="生成式填充" scheme="https://chatgpt-plus.github.io/tags/%E7%94%9F%E6%88%90%E5%BC%8F%E5%A1%AB%E5%85%85/"/>
     
   </entry>
   
   <entry>
-    <title>【2026更新】史上最详细的Gate Card虚拟卡自助开通教程</title>
-    <link href="http://chatgpt-plus.github.io/dupaymaster/"/>
-    <id>http://chatgpt-plus.github.io/dupaymaster/</id>
+    <title>ChatGPT U卡开通教程：Gate Card虚拟卡KYC与充值</title>
+    <link href="https://chatgpt-plus.github.io/dupaymaster/"/>
+    <id>https://chatgpt-plus.github.io/dupaymaster/</id>
     <published>2023-09-02T02:23:33.000Z</published>
-    <updated>2026-09-09T16:24:25.141Z</updated>
+    <updated>2026-09-09T16:36:16.348Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">ChatGPT U卡、虚拟卡怎么申请？Gate Card自助开通、KYC和USDT充值步骤，用于国内ChatGPT充值和Plus会员升级。</summary>
     
     
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/categories/Gate-Card/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/categories/Gate-Card/"/>
     
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="gate card" scheme="http://chatgpt-plus.github.io/tags/gate-card/"/>
+    <category term="chatgpt虚拟卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E8%99%9A%E6%8B%9F%E5%8D%A1/"/>
     
-    <category term="chatgpt 充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="chatgpt plus充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
+    <category term="gate card" scheme="https://chatgpt-plus.github.io/tags/gate-card/"/>
     
-    <category term="gpt plus账号" scheme="http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
+    <category term="chatgpt 充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt充值教程" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    <category term="chatgpt plus充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt plus购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    <category term="gpt plus账号" scheme="https://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
     
-    <category term="Gate Card开通" scheme="http://chatgpt-plus.github.io/tags/Gate-Card%E5%BC%80%E9%80%9A/"/>
+    <category term="chatgpt充值教程" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
     
-    <category term="Gate Card充值" scheme="http://chatgpt-plus.github.io/tags/Gate-Card%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt plus购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    
+    <category term="chatgpt升级" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%8D%87%E7%BA%A7/"/>
+    
+    <category term="chatgpt u卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt-u%E5%8D%A1/"/>
+    
+    <category term="Gate Card开通" scheme="https://chatgpt-plus.github.io/tags/Gate-Card%E5%BC%80%E9%80%9A/"/>
+    
+    <category term="Gate Card充值" scheme="https://chatgpt-plus.github.io/tags/Gate-Card%E5%85%85%E5%80%BC/"/>
     
   </entry>
   
   <entry>
     <title>Gate Card如何白嫖谷歌云服务器$300美金大羊毛</title>
-    <link href="http://chatgpt-plus.github.io/gce-depay/"/>
-    <id>http://chatgpt-plus.github.io/gce-depay/</id>
+    <link href="https://chatgpt-plus.github.io/gce-depay/"/>
+    <id>https://chatgpt-plus.github.io/gce-depay/</id>
     <published>2023-08-10T05:57:59.000Z</published>
-    <updated>2026-09-09T16:24:25.165Z</updated>
+    <updated>2026-09-09T16:32:54.158Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">用Gate Card虚拟卡/U卡绑定谷歌云领取试用金。同一套ChatGPT充值用的卡，也能开云服务器。</summary>
     
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="chatgpt虚拟卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E8%99%9A%E6%8B%9F%E5%8D%A1/"/>
     
-    <category term="谷歌云" scheme="http://chatgpt-plus.github.io/tags/%E8%B0%B7%E6%AD%8C%E4%BA%91/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="VPS" scheme="http://chatgpt-plus.github.io/tags/VPS/"/>
+    <category term="chatgpt u卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt-u%E5%8D%A1/"/>
     
-    <category term="薅羊毛" scheme="http://chatgpt-plus.github.io/tags/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
+    <category term="谷歌云" scheme="https://chatgpt-plus.github.io/tags/%E8%B0%B7%E6%AD%8C%E4%BA%91/"/>
+    
+    <category term="VPS" scheme="https://chatgpt-plus.github.io/tags/VPS/"/>
+    
+    <category term="薅羊毛" scheme="https://chatgpt-plus.github.io/tags/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
     
   </entry>
   
   <entry>
     <title>教你国内新手小白如何方便炒美港股？</title>
-    <link href="http://chatgpt-plus.github.io/rockflow/"/>
-    <id>http://chatgpt-plus.github.io/rockflow/</id>
+    <link href="https://chatgpt-plus.github.io/rockflow/"/>
+    <id>https://chatgpt-plus.github.io/rockflow/</id>
     <published>2023-07-14T03:23:15.000Z</published>
     <updated>2023-09-29T03:58:56.811Z</updated>
     
@@ -463,266 +497,248 @@
     
     
     
-    <category term="美港股" scheme="http://chatgpt-plus.github.io/categories/%E7%BE%8E%E6%B8%AF%E8%82%A1/"/>
+    <category term="美港股" scheme="https://chatgpt-plus.github.io/categories/%E7%BE%8E%E6%B8%AF%E8%82%A1/"/>
     
     
-    <category term="rockflow" scheme="http://chatgpt-plus.github.io/tags/rockflow/"/>
+    <category term="rockflow" scheme="https://chatgpt-plus.github.io/tags/rockflow/"/>
     
-    <category term="美港股" scheme="http://chatgpt-plus.github.io/tags/%E7%BE%8E%E6%B8%AF%E8%82%A1/"/>
+    <category term="美港股" scheme="https://chatgpt-plus.github.io/tags/%E7%BE%8E%E6%B8%AF%E8%82%A1/"/>
     
   </entry>
   
   <entry>
     <title>国内Onekey Card快速开通ChatGPT Plus教程【亲测有效】</title>
-    <link href="http://chatgpt-plus.github.io/onekey-card/"/>
-    <id>http://chatgpt-plus.github.io/onekey-card/</id>
+    <link href="https://chatgpt-plus.github.io/onekey-card/"/>
+    <id>https://chatgpt-plus.github.io/onekey-card/</id>
     <published>2023-04-14T02:41:27.000Z</published>
-    <updated>2026-09-09T16:24:25.168Z</updated>
+    <updated>2026-09-09T16:36:16.351Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">OneKey Card开通ChatGPT Plus的备选方案。新人更建议先开Gate Card虚拟卡/U卡，自己充值升级会员，降低代充和封号风险。</summary>
     
     
     
-    <category term="onekey" scheme="http://chatgpt-plus.github.io/categories/onekey/"/>
+    <category term="onekey" scheme="https://chatgpt-plus.github.io/categories/onekey/"/>
     
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="chatgpt虚拟卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E8%99%9A%E6%8B%9F%E5%8D%A1/"/>
     
-    <category term="gate card" scheme="http://chatgpt-plus.github.io/tags/gate-card/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="chatgpt 充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
+    <category term="gate card" scheme="https://chatgpt-plus.github.io/tags/gate-card/"/>
     
-    <category term="chatgpt plus充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt 充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
     
-    <category term="gpt plus账号" scheme="http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
+    <category term="chatgpt plus充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt充值教程" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    <category term="gpt plus账号" scheme="https://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
     
-    <category term="chatgpt plus购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    <category term="chatgpt充值教程" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
     
-    <category term="onekey" scheme="http://chatgpt-plus.github.io/tags/onekey/"/>
+    <category term="chatgpt plus购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
     
-    <category term="onekey card" scheme="http://chatgpt-plus.github.io/tags/onekey-card/"/>
+    <category term="chatgpt升级" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%8D%87%E7%BA%A7/"/>
+    
+    <category term="chatgpt u卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt-u%E5%8D%A1/"/>
+    
+    <category term="onekey" scheme="https://chatgpt-plus.github.io/tags/onekey/"/>
+    
+    <category term="onekey card" scheme="https://chatgpt-plus.github.io/tags/onekey-card/"/>
     
   </entry>
   
   <entry>
     <title>ChatGPT Plus用户抢先体验强大的GPT-4</title>
-    <link href="http://chatgpt-plus.github.io/gpt-4/"/>
-    <id>http://chatgpt-plus.github.io/gpt-4/</id>
+    <link href="https://chatgpt-plus.github.io/gpt-4/"/>
+    <id>https://chatgpt-plus.github.io/gpt-4/</id>
     <published>2023-03-15T10:46:26.000Z</published>
-    <updated>2026-09-09T16:12:48.369Z</updated>
+    <updated>2026-09-09T16:32:54.162Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">ChatGPT Plus会员才能优先体验GPT-4。国内需先完成ChatGPT充值升级，再使用GPT-4。</summary>
     
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="gate card" scheme="http://chatgpt-plus.github.io/tags/gate-card/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="chatgpt 充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
+    <category term="gate card" scheme="https://chatgpt-plus.github.io/tags/gate-card/"/>
     
-    <category term="chatgpt plus充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt 充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
     
-    <category term="gpt plus账号" scheme="http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
+    <category term="chatgpt plus充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt充值教程" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    <category term="gpt plus账号" scheme="https://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
     
-    <category term="chatgpt plus购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    <category term="chatgpt充值教程" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
     
-    <category term="ChatGPT Plus" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-Plus/"/>
+    <category term="chatgpt plus购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    
+    <category term="ChatGPT Plus" scheme="https://chatgpt-plus.github.io/tags/ChatGPT-Plus/"/>
     
   </entry>
   
   <entry>
-    <title>Gate Card绑定ChatGPT以及微信、支付宝等使用场景和建议</title>
-    <link href="http://chatgpt-plus.github.io/depay-card/"/>
-    <id>http://chatgpt-plus.github.io/depay-card/</id>
+    <title>ChatGPT虚拟卡怎么用：Gate Card绑定Plus和日常支付</title>
+    <link href="https://chatgpt-plus.github.io/depay-card/"/>
+    <id>https://chatgpt-plus.github.io/depay-card/</id>
     <published>2023-03-04T04:45:38.000Z</published>
-    <updated>2026-09-09T16:24:25.156Z</updated>
+    <updated>2026-09-09T16:36:16.349Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">ChatGPT虚拟卡/U卡使用指南。Gate Card如何绑定ChatGPT Plus、海外订阅，以及卡被拒时怎样换U卡，避免反复支付导致封号。</summary>
     
     
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/categories/Gate-Card/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/categories/Gate-Card/"/>
     
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="gate card" scheme="http://chatgpt-plus.github.io/tags/gate-card/"/>
+    <category term="chatgpt虚拟卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E8%99%9A%E6%8B%9F%E5%8D%A1/"/>
     
-    <category term="chatgpt 充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="chatgpt plus充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
+    <category term="gate card" scheme="https://chatgpt-plus.github.io/tags/gate-card/"/>
     
-    <category term="gpt plus账号" scheme="http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
+    <category term="chatgpt 充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt充值教程" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    <category term="chatgpt plus充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt plus购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    <category term="gpt plus账号" scheme="https://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    <category term="chatgpt充值教程" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="chatgpt plus购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+    <category term="chatgpt升级" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%8D%87%E7%BA%A7/"/>
+    
+    <category term="chatgpt u卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt-u%E5%8D%A1/"/>
     
   </entry>
   
   <entry>
-    <title>国内ChatGPT API Key申请使用及虚拟信用卡充值教程</title>
-    <link href="http://chatgpt-plus.github.io/chatgpt-api-key/"/>
-    <id>http://chatgpt-plus.github.io/chatgpt-api-key/</id>
+    <title>国内ChatGPT API Key申请与虚拟卡充值教程</title>
+    <link href="https://chatgpt-plus.github.io/chatgpt-api-key/"/>
+    <id>https://chatgpt-plus.github.io/chatgpt-api-key/</id>
     <published>2023-03-03T13:32:29.000Z</published>
-    <updated>2026-09-09T16:24:25.117Z</updated>
+    <updated>2026-09-09T16:32:54.153Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">国内申请ChatGPT API Key并用虚拟卡完成账单充值，不走代充，自己绑定支付方式更稳。</summary>
     
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="ChatGPT API" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
+    <category term="chatgpt虚拟卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E8%99%9A%E6%8B%9F%E5%8D%A1/"/>
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="ChatGPT API" scheme="https://chatgpt-plus.github.io/tags/ChatGPT-API/"/>
     
-    <category term="gate card" scheme="http://chatgpt-plus.github.io/tags/gate-card/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="chatgpt 充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
+    <category term="gate card" scheme="https://chatgpt-plus.github.io/tags/gate-card/"/>
     
-    <category term="chatgpt plus充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt 充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
     
-    <category term="gpt plus账号" scheme="http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
+    <category term="chatgpt plus充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt充值教程" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    <category term="gpt plus账号" scheme="https://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
     
-    <category term="chatgpt plus购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    <category term="chatgpt充值教程" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="chatgpt plus购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
     
   </entry>
   
   <entry>
-    <title>国内开通Chat GPT Plus保姆级教程【典藏】</title>
-    <link href="http://chatgpt-plus.github.io/chatgpt-plus/"/>
-    <id>http://chatgpt-plus.github.io/chatgpt-plus/</id>
+    <title>国内ChatGPT Plus充值升级教程（虚拟卡/U卡自助开通）</title>
+    <link href="https://chatgpt-plus.github.io/chatgpt-plus/"/>
+    <id>https://chatgpt-plus.github.io/chatgpt-plus/</id>
     <published>2023-02-09T12:41:45.000Z</published>
-    <updated>2026-09-09T16:24:25.192Z</updated>
+    <updated>2026-09-09T16:36:16.346Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">2026最新国内ChatGPT充值、ChatGPT Plus会员升级教程。用Gate Card虚拟卡/U卡自助开通，不走代充、降低封号风险，含开卡、充值和绑卡全流程。</summary>
     
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="gate card" scheme="http://chatgpt-plus.github.io/tags/gate-card/"/>
+    <category term="chatgpt虚拟卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E8%99%9A%E6%8B%9F%E5%8D%A1/"/>
     
-    <category term="chatgpt 充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="chatgpt plus充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt代充" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BB%A3%E5%85%85/"/>
     
-    <category term="gpt plus账号" scheme="http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
+    <category term="chatgpt升级" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%8D%87%E7%BA%A7/"/>
     
-    <category term="chatgpt充值教程" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    <category term="chatgpt封号" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%B0%81%E5%8F%B7/"/>
     
-    <category term="chatgpt plus购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    <category term="chatgpt u卡" scheme="https://chatgpt-plus.github.io/tags/chatgpt-u%E5%8D%A1/"/>
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
-    
-    <category term="ChatGPT 充值" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-%E5%85%85%E5%80%BC/"/>
-    
-    <category term="ChatGPT 购买" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-%E8%B4%AD%E4%B9%B0/"/>
-    
-    <category term="ChatGPT Plus" scheme="http://chatgpt-plus.github.io/tags/ChatGPT-Plus/"/>
+    <category term="ChatGPT Plus" scheme="https://chatgpt-plus.github.io/tags/ChatGPT-Plus/"/>
     
   </entry>
   
   <entry>
-    <title>国内注册一个属于自己的免费ChatGPT账号【附常见问题解决】</title>
-    <link href="http://chatgpt-plus.github.io/chatgpt/"/>
-    <id>http://chatgpt-plus.github.io/chatgpt/</id>
+    <title>国内注册免费ChatGPT账号教程（再自助升级Plus会员）</title>
+    <link href="https://chatgpt-plus.github.io/chatgpt/"/>
+    <id>https://chatgpt-plus.github.io/chatgpt/</id>
     <published>2023-02-05T02:13:54.000Z</published>
-    <updated>2026-09-09T16:12:48.366Z</updated>
+    <updated>2026-09-09T16:32:54.147Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">国内注册ChatGPT账号的接码和验证教程。先有自己的号，再用虚拟卡/U卡充值升级ChatGPT Plus，比买号和代充更不容易封号。</summary>
     
     
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/categories/ChatGPT/"/>
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/categories/ChatGPT/"/>
     
     
-    <category term="chatgpt充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt会员" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E4%BC%9A%E5%91%98/"/>
     
-    <category term="Gate Card" scheme="http://chatgpt-plus.github.io/tags/Gate-Card/"/>
+    <category term="chatgpt充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC/"/>
     
-    <category term="gate card" scheme="http://chatgpt-plus.github.io/tags/gate-card/"/>
+    <category term="Gate Card" scheme="https://chatgpt-plus.github.io/tags/Gate-Card/"/>
     
-    <category term="chatgpt 充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
+    <category term="gate card" scheme="https://chatgpt-plus.github.io/tags/gate-card/"/>
     
-    <category term="chatgpt plus充值" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
+    <category term="chatgpt 充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-%E5%85%85%E5%80%BC/"/>
     
-    <category term="gpt plus账号" scheme="http://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
+    <category term="chatgpt plus充值" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E5%85%85%E5%80%BC/"/>
     
-    <category term="chatgpt充值教程" scheme="http://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
+    <category term="gpt plus账号" scheme="https://chatgpt-plus.github.io/tags/gpt-plus%E8%B4%A6%E5%8F%B7/"/>
     
-    <category term="chatgpt plus购买" scheme="http://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    <category term="chatgpt充值教程" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/"/>
     
-    <category term="ChatGPT" scheme="http://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    <category term="chatgpt plus购买" scheme="https://chatgpt-plus.github.io/tags/chatgpt-plus%E8%B4%AD%E4%B9%B0/"/>
+    
+    <category term="ChatGPT" scheme="https://chatgpt-plus.github.io/tags/ChatGPT/"/>
+    
+    <category term="chatgpt升级" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%8D%87%E7%BA%A7/"/>
+    
+    <category term="chatgpt封号" scheme="https://chatgpt-plus.github.io/tags/chatgpt%E5%B0%81%E5%8F%B7/"/>
     
   </entry>
   
